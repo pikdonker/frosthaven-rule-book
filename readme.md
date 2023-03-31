@@ -3022,7 +3022,7 @@ To Joseph Childres — the most creative person I’ve ever known.
 1. Apply all attack bonuses and penalties.
 1. Draw and apply an attack modifier card.
 1. Apply the target's shield bonus.
-1. Apply the effects of <picture><img alt="Ward Icon" src="icons/conditions/fh-ward-color-icon.png" width="14"></picture> and <picture><img alt="Brittle Icon" src="icons/conditions/fh-ward-color-icon.png" width="14"></picture>
+1. Apply the effects of <picture><img alt="Ward Icon" src="icons/conditions/fh-ward-color-icon.png" width="14"></picture> and <picture><img alt="Brittle Icon" src="icons/conditions/fh-brittle-color-icon.png" width="14"></picture>
 
 ## End of Round ([p.46](#page_46))
 
