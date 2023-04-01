@@ -1067,7 +1067,7 @@ When a treasure tile is looted, it is removed from the map. Monsters cannot loot
 
 ### Recover
 
-<picture><img alt="Recover Icon" title="Recover Icon" src="icons/general/fh-recover-card-color-icon.png" width="42"></picture>  Recover is a positive targeted ability that allows a character to recover discarded or lost ability cards (see [p.38](#page_38)). The targeted character looks through their discard pile or lost pile, selects cards up to the number specified by the ability, and returns those cards to their hand. In some cases, the recover ability might allow a character to recover spent or lost items instead (see [p.36](#page_36)). The targeted character rotates or flips those cards, depending on their usage, so that they can be used again.
+<picture><img alt="Recover Icon" title="Recover Icon" src="icons/general/fh-recover-card-color-icon.png" width="42"></picture>  Recover is a positive non-targeted ability that allows a character to recover discarded or lost ability cards (see [p.38](#page_38)). The targeted character looks through their discard pile or lost pile, selects cards up to the number specified by the ability, and returns those cards to their hand. In some cases, the recover ability might allow a character to recover spent or lost items instead (see [p.36](#page_36)). The targeted character rotates or flips those cards, depending on their usage, so that they can be used again.
 
 ### Commanding Figures
 
