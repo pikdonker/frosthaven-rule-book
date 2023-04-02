@@ -428,19 +428,19 @@ If the scenario layout depicts an overlay tile covering the border hex of a map 
 
 #### Doors
 
-<picture><img alt="Door Icon" title="Door Icon" src="icons/overlay-tiles/fh-overlay-tile-door-color-icon.png.png" width="42"></picture>  A door separates two rooms. All doors are closed to start. When a character enters a closed door, they flip over the door tile to its open side, revealing the adjacent room (see [p.44](#page_44)). Closed doors do not hinder normal character movement, but they otherwise act as walls. No figure can enter a closed door with forced movement (see [p.32](#page_32)). Once a door is open, it is considered a corridor for most purposes, but it still separates rooms and is not part of either room adjacent to it. Door illustrations vary by environment type, but all door tiles function identically.
+<picture><img alt="Door Icon" title="Door Icon" src="icons/overlay-tiles/fh-overlay-tile-door-color-icon.png" width="42"></picture>  A door separates two rooms. All doors are closed to start. When a character enters a closed door, they flip over the door tile to its open side, revealing the adjacent room (see [p.44](#page_44)). Closed doors do not hinder normal character movement, but they otherwise act as walls. No figure can enter a closed door with forced movement (see [p.32](#page_32)). Once a door is open, it is considered a corridor for most purposes, but it still separates rooms and is not part of either room adjacent to it. Door illustrations vary by environment type, but all door tiles function identically.
 
 #### Corridors
 
-<picture><img alt="Corridor Icon" title="Corridor Icon" src="icons/overlay-tiles/fh-overlay-tile-corridor-color-icon.png.png" width="42"></picture>  A corridor is placed on the connection of two map tiles to cover the border hexes and create a single room out of multiple map tiles. Corridors are considered empty hexes and are **not** considered to be overlay tiles for the purposes of determining what other tiles or tokens can be placed in the same hex.
+<picture><img alt="Corridor Icon" title="Corridor Icon" src="icons/overlay-tiles/fh-overlay-tile-corridor-color-icon.png" width="42"></picture>  A corridor is placed on the connection of two map tiles to cover the border hexes and create a single room out of multiple map tiles. Corridors are considered empty hexes and are **not** considered to be overlay tiles for the purposes of determining what other tiles or tokens can be placed in the same hex.
 
 #### Pressure Plates
 
-<picture><img alt="Pressure Plate Icon" title="Pressure Plate Icon" src="icons/overlay-tiles/fh-overlay-tile-pressure-plate-color-icon.png.png" width="42"></picture>  A pressure plate’s trigger and all of its effects are defined by the special rules for the scenario. Jump and flying movements still trigger pressure plates. Pressure plates are considered empty hexes.
+<picture><img alt="Pressure Plate Icon" title="Pressure Plate Icon" src="icons/overlay-tiles/fh-overlay-tile-pressure-plate-color-icon.png" width="42"></picture>  A pressure plate’s trigger and all of its effects are defined by the special rules for the scenario. Jump and flying movements still trigger pressure plates. Pressure plates are considered empty hexes.
 
 #### Traps
 
-<picture><img alt="Trap Icon" title="Trap Icon" src="icons/overlay-tiles/fh-overlay-tile-trap-color-icon.png.png" width="42"></picture>  A trap is sprung when any figure enters its hex, except when flying or jumping (unless the jump movement ends there).When a trap is sprung, it applies some effect to the figure who sprang it and is then removed from the map. Trap effects are varied and are specified either by the scenario key — if they are a part of a room’s setup — or by the ability of the figure who placed the trap. If part of a trap’s effect is listed as "damage" in the scenario key, the trap will deal damage equal to 2 plus the scenario level (see [p.16](#page_16)). 
+<picture><img alt="Trap Icon" title="Trap Icon" src="icons/overlay-tiles/fh-overlay-tile-trap-color-icon.png" width="42"></picture>  A trap is sprung when any figure enters its hex, except when flying or jumping (unless the jump movement ends there).When a trap is sprung, it applies some effect to the figure who sprang it and is then removed from the map. Trap effects are varied and are specified either by the scenario key — if they are a part of a room’s setup — or by the ability of the figure who placed the trap. If part of a trap’s effect is listed as "damage" in the scenario key, the trap will deal damage equal to 2 plus the scenario level (see [p.16](#page_16)). 
 > <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> When a trap tile is placed on the map, tokens for the damage and conditions it applies should be placed on the trap tile for easy reference.
 
 #### Hazardous Terrain
@@ -2380,7 +2380,7 @@ The monster performs all of its abilities from top to bottom (move, attack, and 
 
 ### Bless and Curse
 
-* When there are two opposing sides for the monsters in a scenario, they use two different attack modifier decks (<picture><img alt="Monster Icon" title="Monster Icon" src="icons/general/fh-monster-icon.png.png" width="14"></picture> and <picture><img alt="Ally Icon" title="Ally Icon" src="icons/general/fh-ally-icon.png" width="14"></picture>) and thus are affected by bless and curse separately.
+* When there are two opposing sides for the monsters in a scenario, they use two different attack modifier decks (<picture><img alt="Monster Icon" title="Monster Icon" src="icons/general/fh-monster-icon.png" width="14"></picture> and <picture><img alt="Ally Icon" title="Ally Icon" src="icons/general/fh-ally-icon.png" width="14"></picture>) and thus are affected by bless and curse separately.
 * Immunity to curse prevents a figure from adding a curse card to their deck, but does not prevent a drawn curse card from taking effect.
 * Bless and curse cards are returned to the supply once resolved, instead of placed in the discard pile. They are removed from all decks at the end of each scenario.
 
