@@ -2271,7 +2271,7 @@ A random setup card contains the following:
 
 ---
 
-> **Large Tuck Boxes (6 Unsealed, 11 Sealed)
+> **17 Large Tuck Boxes (6 Unsealed, 11 Sealed)**
 > **17** Character mats
 > **503** character ability cards
 > **18** character standees
