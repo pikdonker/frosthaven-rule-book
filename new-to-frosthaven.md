@@ -1,3 +1,7 @@
+---
+title: Rules new to Frosthaven
+---
+
 # Scenario Phase [p.7](./readme.md#page_7)
 
 In addition to the scenario book, the section book will also be important for playing through a scenario. Any time you see the section book icon <img alt="Section Book Icon" src="icons/general/fh-section-bw-icon.png" width="12">, read the specified section in the section book. The number before the period is the specific page number, and the number after the period is the specific section on that page.

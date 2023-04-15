@@ -1,0 +1,53 @@
+{
+	// Place your Frosthaven workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"Page anchor": {
+		"prefix": "pg",
+		"body": [
+			"---\n\n**<p align=\"right\"><a name=\"page_$1\">$2</a></p>**\n\n---\n"
+		],
+		"description": "Page anchor"
+	},
+	"Page link Readme" : {
+		"prefix": "plr",
+		"body": [
+			"[p.$1](./readme.md#page_$1)"
+		],
+		"description": "Link to Readme File"
+	},
+	"Page link": {
+		"prefix": "pl",
+		"body": [
+			"[p.$1](#page_$2)"
+		],
+		"description": "Page link"
+	},
+	"FH Identifier": {
+		"prefix" : "id",
+		"body" : [
+			"> <img alt=\"Frosthaven Identifier\" src=\"icons/general/fh-frosthaven-identifier-bw-icon.png\" width=\"12px\"> "
+		],
+		"description": "Frosthaven Identifier"
+	},
+	"icon": {
+		"prefix" : "icon",
+		"body" : [
+			"<img alt=\"$1\" src=\"icons/$2.png\" width=\"12px\">"
+		],
+		"description": "Icon"
+	}
+}

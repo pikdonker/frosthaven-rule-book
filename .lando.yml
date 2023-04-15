@@ -1,0 +1,14 @@
+name: frosthaven-rule-book
+services:
+  ruby:
+    type: ruby
+tooling:
+  gem:
+    service: ruby
+  jekyll:
+    service: ruby
+  bundle:
+    service: ruby
+proxy:
+  ruby:
+    - ruby.lndo.site:4000
