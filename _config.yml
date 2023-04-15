@@ -17,8 +17,8 @@ title: Frosthaven Rule Book
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a ligthweight, searchable, version of the Frosthaven Rule Book. © 2022 Cephalofair Games, LLC. All Rights Reserved
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pikdonker.github.io/frosthaven-rule-book/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/frosthaven-rule-book" # the subpath of your site, e.g. /blog
+url: "https://pikdonker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  pikdonker
 
