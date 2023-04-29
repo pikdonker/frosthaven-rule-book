@@ -2108,7 +2108,7 @@ Items cannot be purchased freely until building 37 is built. Until that happens,
 
 ---
 
-**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_67">67</a></p>**
+**<p align="right"><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_68">68</a></p>**
 
 ---
 
