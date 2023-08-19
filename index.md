@@ -1939,7 +1939,7 @@ When the party gains or loses gold or resources due to these effects, they can b
 Because the Building Operations step occurs immediately after the Outpost Event step, any building that was wrecked during the outpost event will have its wrecked effect resolved once before the party even has an opportunity to rebuild it.
 
 <details>
-<summary>## Sticker 10</summary>
+<summary><h2 id="sticker-10">Sticker 10</h2></summary>
 
 ### Garden
 
