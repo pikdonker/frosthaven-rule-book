@@ -15,6 +15,12 @@ I've made a separate document that only lists the parts of the Rule Book that ar
 
 All text taken from the original Rule Book (as uploaded to https://github.com/any2cards/worldhaven). Icons taken from https://github.com/any2cards/worldhaven. All mistakes are mine. PR's welcome, **as long as they do not contain spoilers.**
 
+### Stickers added:
+
+1. Sticker 4
+1. Sticker 10
+1. Sticker 15
+
 © 2022 Cephalofair Games, LLC. All Rights Reserved.
 
 ---
@@ -264,7 +270,7 @@ The rules are broken up into two main sections: rules for playing through a scen
 * **Road Events**: These will not occur at the start of the first scenario.
 * **Scenario Level**: This will be set to "1" for the first few scenarios
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> If you are already experienced with the Gloomhaven system, you can look through the "Scenario Phase" section and read only the parts in blue (like this one), which isolate the scenario rules that are exclusive to Frosthaven. If you are only familiar with Jaws of the Lion, it is recommended that you read through the entire rulebook before you begin.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> If you are already experienced with the Gloomhaven system, you can look through the "Scenario Phase" section and read only the parts in blue (like this one), which isolate the scenario rules that are exclusive to Frosthaven. If you are only familiar with Jaws of the Lion, it is recommended that you read through the entire rulebook before you begin.
 
 Once you are familiar with the scenario rules, feel free to jump into your first scenario by following the instructions of "The Adventure Begins" section on [p.49](#page_49). If you are completely new to the Gloomhaven system, it is not only recommended that you read through the entire rulebook, but also that you start the game with scenario 0.
 
@@ -290,7 +296,7 @@ Each Scenario Phase consists of three distinct steps:
 * **Playing a Scenario**: This step occurs over a series of rounds. Within each round, all figureson the map, both characters and monsters, will take a turn. The party will play through round after round until the scenario is lost or completed.
 * **Ending a Scenario**: In this step, the party will resolve the effects of losing or completing the scenario.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> In addition to the scenario book, the section book will also be important for playing through a scenario. Any time you see the section book icon <picture><img alt="Section Book Icon" title="Section Book Icon" src="icons/general/fh-section-bw-icon.png" width="14"></picture>, read the specified section in the section book. The number before the period is the specific page number, and the number after the period is the specific section on that page.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> In addition to the scenario book, the section book will also be important for playing through a scenario. Any time you see the section book icon <picture><img alt="Section Book Icon" title="Section Book Icon" src="icons/general/fh-section-bw-icon.png" width="14"></picture>, read the specified section in the section book. The number before the period is the specific page number, and the number after the period is the specific section on that page.
 
 ---
 
@@ -310,10 +316,10 @@ Whenever a scenario is played, the party will prepare for the scenario by perfor
 1. Set up the first room of the scenario as depicted in the main map for the scenario entry.
 1. Retrieve and shuffle all necessary attack modifier decks (character, monster, and ally decks) and retrieve all additional attack modifier cards (<picture><img alt="Bless icon" title="Bless icon" src="icons/conditions/fh-bless-color-icon.png" width="14"></picture>, <picture><img alt="Curse Icon" title="Curse Icon" src="icons/conditions/fh-curse-color-icon.png" width="14"></picture>, and <picture><img alt="Star Icon" title="Star Icon" src="icons/general/fh-star-icon.png" width="14"></picture> cards).
 1. Read the scenario goals, introduction, and special rules in the scenario entry.
-1. > <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Deal three battle goals to each character. Decide which one to keep for each character and discard the others (see [p.17](#page_17)).
+1. > <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Deal three battle goals to each character. Decide which one to keep for each character and discard the others (see [p.17](#page_17)).
 1. Sticker 1
-1. > <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Place the token tray nearby.
-1. > <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Build the loot deck as depicted by the loot table in the scenario entry (see [p.16](#page_16)).
+1. > <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Place the token tray nearby.
+1. > <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Build the loot deck as depicted by the loot table in the scenario entry (see [p.16](#page_16)).
 1. Sticker 2
 1. Sticker 3
 1. Decide which items to bring for each character from their pool and apply any negative effects and start-of-scenario effects associated with those items (see [p.35](#page_35)).
@@ -339,17 +345,17 @@ Each scenario entry in the scenario book is critical to setting up and playing t
 
 * (A) The scenario’s name and number.
 * (B) The scenario’s grid coordinates on the map board (or "FR" if the scenario takes place within Frosthaven itself).
-* <blockquote>(C) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Any requirements for playing the scenario, including necessary campaign stickers or special travel icons that require the corresponding building upgrade.</blockquote>
-* <blockquote>(D) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> The complexity of the scenario, on a scale of 1–3. Higher complexity scenarios will generally take longer and have more special rules.</blockquote>
-* <blockquote>(E) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> The geographical feature where the scenario is located (if any).</blockquote>
-* <blockquote>(F) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> The designers and writers of the scenario (side scenarios only).</blockquote>
-* <blockquote>(G) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> The goal of the scenario. When this is achieved, the scenario is completed, and the specified section in the section book should be read at the end of the current round for the conclusion and rewards.</blockquote>
+* <blockquote>(C) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Any requirements for playing the scenario, including necessary campaign stickers or special travel icons that require the corresponding building upgrade.</blockquote>
+* <blockquote>(D) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> The complexity of the scenario, on a scale of 1–3. Higher complexity scenarios will generally take longer and have more special rules.</blockquote>
+* <blockquote>(E) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> The geographical feature where the scenario is located (if any).</blockquote>
+* <blockquote>(F) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> The designers and writers of the scenario (side scenarios only).</blockquote>
+* <blockquote>(G) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> The goal of the scenario. When this is achieved, the scenario is completed, and the specified section in the section book should be read at the end of the current round for the conclusion and rewards.</blockquote>
 * (H) An introduction to the scenario.
 * (I) Any special rules for the scenario.
 * (J) Any scenario effects applied to characters.
-* <blockquote>(K) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Section links, which will describe when you should reference the section book for additional information (see <a href="#page_7">p.7</a>). Important elements such as additional room setups can be found in these sections. Section links are read immediately when the condition described is fulfilled, even if it interrupts an ability.</blockquote>
-* <blockquote>(L) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> The configuration of map tiles needed for the entire scenario, with each map tile labeled. Most of the time, this will be more than the initial room. Do not reference the setup for any additional rooms, which will be detailed in the section book, until instructed. However, the map tiles for the entire scenario can be placed at once.</blockquote>
-* <blockquote>(M) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> The composition of the loot deck (see <a href="#page_16">p.16</a>).</blockquote>
+* <blockquote>(K) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Section links, which will describe when you should reference the section book for additional information (see <a href="#page_7">p.7</a>). Important elements such as additional room setups can be found in these sections. Section links are read immediately when the condition described is fulfilled, even if it interrupts an ability.</blockquote>
+* <blockquote>(L) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> The configuration of map tiles needed for the entire scenario, with each map tile labeled. Most of the time, this will be more than the initial room. Do not reference the setup for any additional rooms, which will be detailed in the section book, until instructed. However, the map tiles for the entire scenario can be placed at once.</blockquote>
+* <blockquote>(M) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> The composition of the loot deck (see <a href="#page_16">p.16</a>).</blockquote>
 * (N) The scenario key, which shows the monsters and overlay tiles needed for the entire scenario, even if they are not needed initially
 
 ---
@@ -362,7 +368,7 @@ Each scenario entry also displays a detailed layout of the initial room of the s
 
 * (A) **Starting Hexes**: The characters can each place their figure (miniature or standee) in any of these hexes at the start of the scenario. However, no hex can ever contain more than one figure.
 * (B) **Overlay Tiles**: These are smaller hex tiles placed on top of the map tiles to create additional map features (see [p.13](#page_13)).
-* <blockquote>(C) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> <strong>Loot Tokens</strong>: These are objects on the map that characters can interact with to gain rewards from the loot deck (see <a href="#page_32">p.32</a>).</blockquote>
+* <blockquote>(C) <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> <strong>Loot Tokens</strong>: These are objects on the map that characters can interact with to gain rewards from the loot deck (see <a href="#page_32">p.32</a>).</blockquote>
 * (D) **Monster Placements**: These hexes show colored bars to indicate monster placements by rank. The top bar is for two characters, the middle bar is for three characters, and the bottom bar is for four characters. Black means no monster, white means a normal monster, and yellow means an elite monster. Place each monster standee in a base whose color matches its rank. All standees for a monster type are numbered and should be randomized upon placement.
 * (E) **Notable Hexes**: These hexes, denoted with letters and numbers, are explained in the special rules or section links. If the icon is green, place the corresponding scenario aid token in the hex, but if the icon is gray, do not place the token
 
@@ -382,7 +388,7 @@ Each scenario entry also displays a detailed layout of the initial room of the s
 * When playing a scenario that takes place within Frosthaven itself.
 * When playing any scenario in casual mode (see [p.69](#page_69)).
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> There are two decks of road events: summer and winter. Draw the top card of the active road event deck that corresponds to the current season, as shown by the next unmarked box on the campaign calendar (see [p.54](#page_54)).
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> There are two decks of road events: summer and winter. Draw the top card of the active road event deck that corresponds to the current season, as shown by the next unmarked box on the campaign calendar (see [p.54](#page_54)).
 
 The party will perform the following steps when resolving an event card:
 1. Read the thematic text on the front of the card.
@@ -390,11 +396,17 @@ The party will perform the following steps when resolving an event card:
 1. Read the thematic text on the back of the card for the outcome that corresponds to the chosen option, then resolve the effect written in that section. Only characters who are participating in the scenario are affected by the outcome. Do not read any of the text that corresponds to the other outcome.
 1. Remove the card from the game. If the return icon <picture><img alt="Return Icon" title="Return Icon" src="icons/general/fh-return-card-bw-icon.png" width="14"></picture> is depicted in the outcome, return the card to the bottom of the corresponding road event deck instead.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Some options and outcomes have requirements associated with them. The most common requirement checks whether any of the characters has a specific trait <picture><img alt="Trait Icon" title="Trait Icon" src="icons/general/fh-trait-bw-icon.png" width="14"></picture> listed on the front of their character mat. Other requirements might refer to the gold, resources, or other campaign stats you have, or whether specific achievement stickers are present on the campaign sheet (see [p.54](#page_54)). When the word "collective" is used, the requirement refers to the entire party and can also include any collective resources listed on the campaign sheet. If the requirement is not met, instead read the outcome labeled "otherwise."
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Some options and outcomes have requirements associated with them. The most common requirement checks whether any of the characters has a specific trait <picture><img alt="Trait Icon" title="Trait Icon" src="icons/general/fh-trait-bw-icon.png" width="14"></picture> listed on the front of their character mat. Other requirements might refer to the gold, resources, or other campaign stats you have, or whether specific achievement stickers are present on the campaign sheet (see [p.54](#page_54)). When the word "collective" is used, the requirement refers to the entire party and can also include any collective resources listed on the campaign sheet. If the requirement is not met, instead read the outcome labeled "otherwise."
 
 Each event also has a reference number A. Throughout the campaign, you will be instructed to add or remove events from the various event decks. These events are always referenced by this number so that they can be easily found. When an event is added to or removed from an event deck, that deck must then be shuffled. Certain events also have an additional icon (<picture><img alt="Unfettered Icon" title="Unfettered Icon" src="icons/general/fh-unfettered-icon.png" width="14"></picture>/<picture><img alt="Algox Icon" title="Algox Icon" src="icons/general/fh-algox-icon.png" width="14"></picture>/<picture><img alt="Lurker Icon" title="Lurker Icon" src="icons/general/fh-lurker-icon.png" width="14"></picture>) to make it easier to identify a large number of cards at once. 
 
-## Sticker 4
+<details>
+<summary><h2 id="sticker-4" style="display: inline;">Sticker 4</h2></summary>
+
+### Boat Events
+
+A boat event is a small thematic interaction in the Biting Sea. When you use the boat upgrade to travel to a scenario on the sea, signified by the boat icon in the scenario book, draw a boat event **instead of a road event.** These are resolved in the same manner as road events. There is only one boat event deck; boat events are not split into summer and winter.
+</details>
 
 ---
 
@@ -404,7 +416,7 @@ Each event also has a reference number A. Throughout the campaign, you will be i
 
 ### Map Tiles and Walls
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Each map tile is considered to be full of empty hexes (no overlay tiles or figures). These traversable hexes are surrounded by walls consisting of border hexes separated by wall lines.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Each map tile is considered to be full of empty hexes (no overlay tiles or figures). These traversable hexes are surrounded by walls consisting of border hexes separated by wall lines.
 
 Wall lines cannot be crossed, and a grouping of hexes surrounded by walls is considered a **room**. A hex is considered adjacent to a wall if it shares a border with a wall line. A hex is not considered adjacent to a hex on the other side of an adjacent wall line 
 
@@ -414,7 +426,7 @@ Overlay tiles are placed on top of map tiles to provide additional features for 
 
 If the scenario layout depicts an overlay tile covering the border hex of a map tile, the overlay tile also covers up any adjacent wall lines. The overlay tile creates new wall lines between it and any adjacent border hexes without overlay tiles.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> A hex with no overlay tiles (except corridors and pressure plates) is considered **featureless**. A hex with no figure is considered **unoccupied**. A hex that is both featureless and unoccupied is considered **empty**. Tokens are not overlay tiles.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> A hex with no overlay tiles (except corridors and pressure plates) is considered **featureless**. A hex with no figure is considered **unoccupied**. A hex that is both featureless and unoccupied is considered **empty**. Tokens are not overlay tiles.
 
 |  | A | B | C |
 |--|---|---|---|
@@ -441,21 +453,21 @@ If the scenario layout depicts an overlay tile covering the border hex of a map 
 #### Traps
 
 <picture><img alt="Trap Icon" title="Trap Icon" src="icons/overlay-tiles/fh-overlay-tile-trap-color-icon.png" width="42"></picture>  A trap is sprung when any figure enters its hex, except when flying or jumping (unless the jump movement ends there).When a trap is sprung, it applies some effect to the figure who sprang it and is then removed from the map. Trap effects are varied and are specified either by the scenario key — if they are a part of a room’s setup — or by the ability of the figure who placed the trap. If part of a trap’s effect is listed as "damage" in the scenario key, the trap will deal damage equal to 2 plus the scenario level (see [p.16](#page_16)). 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> When a trap tile is placed on the map, tokens for the damage and conditions it applies should be placed on the trap tile for easy reference.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> When a trap tile is placed on the map, tokens for the damage and conditions it applies should be placed on the trap tile for easy reference.
 
 #### Hazardous Terrain
 
 <picture><img alt="Hazardous Terrain Icon" title="Hazardous Terrain Icon" src="icons/overlay-tiles/fh-overlay-tile-hazardous-terrain-color-icon.png" width="42"></picture>  If any figure enters a hazardous terrain hex, except when flying or jumping (unless the jump movement ends there), 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> that figure suffers damage equal to 1 plus one-third of the scenario level, rounded up (see [p.16](#page_16)). 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> that figure suffers damage equal to 1 plus one-third of the scenario level, rounded up (see [p.16](#page_16)). 
 Unlike trap tiles, hazardous terrain tiles are not removed after their effect is applied; instead they remain on the map indefinitely. Figures do not suffer additional damage when starting a turn in a hazardous terrain tile or exiting a hazardous terrain hex.
 
 #### Difficult Terrain
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> <picture><img alt="Difficult Terrain Icon" title="Difficult Terrain Icon" src="icons/overlay-tiles/fh-overlay-tile-difficult-terrain-color-icon.png" width="42"></picture>  A figure requires 2 movement points to enter a difficult terrain hex, except when flying or jumping (even if the jump movement ends there).
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> <picture><img alt="Difficult Terrain Icon" title="Difficult Terrain Icon" src="icons/overlay-tiles/fh-overlay-tile-difficult-terrain-color-icon.png" width="42"></picture>  A figure requires 2 movement points to enter a difficult terrain hex, except when flying or jumping (even if the jump movement ends there).
 
 #### Icy Terrain
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> <picture><img alt="Icy Terrain Icon" title="Icy Terrain Icon" src="icons/overlay-tiles/fh-overlay-tile-icy-terrain-color-icon.png" width="42"></picture>  If any figure enters an icy terrain hex, except when teleporting, flying, or jumping (even if the jump movement ends there), that figure is forced to move one additional hex, without spending a movement point, in the same direction as the movement that caused them to enter the hex. This extra movement is unaffected by difficult terrain, but it will not occur if it would cause the figure to move through a wall line or to enter a hex occupied by another figure, obstacle, or objective. If the movement causes the figure to enter another icy terrain hex, the effect triggers again.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> <picture><img alt="Icy Terrain Icon" title="Icy Terrain Icon" src="icons/overlay-tiles/fh-overlay-tile-icy-terrain-color-icon.png" width="42"></picture>  If any figure enters an icy terrain hex, except when teleporting, flying, or jumping (even if the jump movement ends there), that figure is forced to move one additional hex, without spending a movement point, in the same direction as the movement that caused them to enter the hex. This extra movement is unaffected by difficult terrain, but it will not occur if it would cause the figure to move through a wall line or to enter a hex occupied by another figure, obstacle, or objective. If the movement causes the figure to enter another icy terrain hex, the effect triggers again.
 
 ---
 
@@ -469,11 +481,11 @@ Unlike trap tiles, hazardous terrain tiles are not removed after their effect is
 
 #### Objectives
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> <picture><img alt="Objectives Icon" title="Objectives Icon" src="icons/overlay-tiles/fh-overlay-tile-objective-color-icon.png" width="42"></picture>  Objectives are tied to the goals of some scenarios and typically need to be destroyed or protected. In either case, the special rules for the scenario will assign a maximum hit point value to each objective, usually based on the scenario level (see [p.16](#page_16)) and the number of characters. Objectives can be targeted by attacks and suffer damage, but are immune to all conditions and forced movement. Objectives are considered to have initiative 99 for the purpose of focusing, unless otherwise stated by the special rules for the scenario, but do not take turns. Any damage an objective suffers is marked by placing damage tokens directly on it. When the total damage suffered by an objective is equal to or greater than its maximum hit point value, the objective is destroyed, and the objective tile is removed from the map. Objectives are considered figures, and the hexes they are in are considered occupied. Objectives are not considered obstacles.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> <picture><img alt="Objectives Icon" title="Objectives Icon" src="icons/overlay-tiles/fh-overlay-tile-objective-color-icon.png" width="42"></picture>  Objectives are tied to the goals of some scenarios and typically need to be destroyed or protected. In either case, the special rules for the scenario will assign a maximum hit point value to each objective, usually based on the scenario level (see [p.16](#page_16)) and the number of characters. Objectives can be targeted by attacks and suffer damage, but are immune to all conditions and forced movement. Objectives are considered to have initiative 99 for the purpose of focusing, unless otherwise stated by the special rules for the scenario, but do not take turns. Any damage an objective suffers is marked by placing damage tokens directly on it. When the total damage suffered by an objective is equal to or greater than its maximum hit point value, the objective is destroyed, and the objective tile is removed from the map. Objectives are considered figures, and the hexes they are in are considered occupied. Objectives are not considered obstacles.
 
 #### Walls
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> <picture><img alt="Walls Icon" title="Walls Icon" src="icons/overlay-tiles/fh-overlay-tile-wall-color-icon.png" width="42"></picture>  Like the walls on the border of a map tile, figures cannot cross the wall lines into a wall hex by any means, even when flying or jumping. Any section of a map tile surrounded by wall lines is considered to be a separate room.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> <picture><img alt="Walls Icon" title="Walls Icon" src="icons/overlay-tiles/fh-overlay-tile-wall-color-icon.png" width="42"></picture>  Like the walls on the border of a map tile, figures cannot cross the wall lines into a wall hex by any means, even when flying or jumping. Any section of a map tile surrounded by wall lines is considered to be a separate room.
 
 #### Treasures
 
@@ -481,12 +493,12 @@ Unlike trap tiles, hazardous terrain tiles are not removed after their effect is
 
 <picture><img alt="Numbered Treasure Icon" title="Numbered Treasure Icon" src="icons/overlay-tiles/fh-overlay-tile-numbered-treasure-icon.png" width="42"></picture>  Goal treasure is related to the completion of a scenario, with effects specified in the special rules for the scenario. Numbered treasure is more varied, with effects specified in the Treasure Index (see [p.78](#page_78)).
 
-* > <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> If the treasure provides an item, find one copy of that item in the unavailable supply and add it to your pool of items. You may then use it normally for the remainder of the scenario as if you had brought it into the scenario, even if it puts you above the limit for that type of item (see [p.35](#page_35)).
+* > <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> If the treasure provides an item, find one copy of that item in the unavailable supply and add it to your pool of items. You may then use it normally for the remainder of the scenario as if you had brought it into the scenario, even if it puts you above the limit for that type of item (see [p.35](#page_35)).
 * If the treasure provides an item blueprint, find all copies of that item in the unavailable supply and add them to the available craftable supply (see [p.58](#page_58)).
 * If the treasure provides a random item blueprint, draw a card from the shuffled random item blueprint deck and add it and all other copies of that item (found in the unavailable craftable supply) to the available craftable supply (see [p.58](#page_58)). 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> If there are no cards left in the random item blueprint deck, gain 1 inspiration instead (see [p.54](#page_54)).
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> If there are no cards left in the random item blueprint deck, gain 1 inspiration instead (see [p.54](#page_54)).
 * If the treasure unlocks a random scenario, draw a card from the random scenario deck, read the section specified on the card in the section book, and then remove the card from the game. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> If there are no cards left in the random scenario deck, gain 1 inspiration instead (see [p.54](#page_54)).
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> If there are no cards left in the random scenario deck, gain 1 inspiration instead (see [p.54](#page_54)).
 
 When a numbered treasure is looted, check it off in the Treasure Index (see [p.78](#page_78)) and cross it out in the scenario book or section book, because it cannot be looted again if the party replays the scenario.
 
@@ -498,7 +510,7 @@ When a numbered treasure is looted, check it off in the Treasure Index (see [p.7
 
 ### Loot Deck
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Each scenario will have a custom loot deck, built as directed by its scenario book entry and consisting of different types of loot cards. The number of cards of each type specified should be randomly drawn from their own individual decks and shuffled together to form the loot deck. 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Each scenario will have a custom loot deck, built as directed by its scenario book entry and consisting of different types of loot cards. The number of cards of each type specified should be randomly drawn from their own individual decks and shuffled together to form the loot deck. 
 >
 > The four different types of loot are as follows:
 >
@@ -526,7 +538,7 @@ This calculation determines the recommended difficulty, but at the start of any 
 |Monster Level    |0|1|2| 3| 4| 5| 6| 7|  |
 |Gold Conversion  |2|2|3| 3| 4| 4| 5| 6|  |
 |Trap Damage      |2|3|4| 5| 6| 7| 8| 9|  |
-|Hazardous Terrain|1|2|2| 2| 3| 3| 3| 4|<picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture>|
+|Hazardous Terrain|1|2|2| 2| 3| 3| 3| 4|<picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture>|
 |Bonus Experience |4|6|8|10|12|14|16|18|  |
 
 ---
@@ -538,7 +550,7 @@ This calculation determines the recommended difficulty, but at the start of any 
 ## Battle Goals
 
 Battle goals provide an additional challenge in a scenario for characters to complete. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> At the start of every scenario, each character receives three battle goal cards in secret and chooses one to keep, discarding the others face down.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> At the start of every scenario, each character receives three battle goal cards in secret and chooses one to keep, discarding the others face down.
 Characters should keep their battle goals secret from one another until the scenario is over. 
 
 If the scenario is completed and the character meets the criteria of the chosen card, they will gain the number of checkmarks specified at the bottom of that card. For every set of three checkmarks, a character will gain a perk mark (see [p.63](#page_63)), up to a maximum of six extra perk marks for 18 checkmarks. If the scenario is lost, the character receives nothing from their battle goal, regardless of whether the goal was achieved.
@@ -600,7 +612,7 @@ After each character has selected two ability cards or declared a long rest, rev
 In addition, reveal one monster ability card for each monster set that has at least one figure currently on the map. Note that several **monster types** (e.g., Black Imps, Forest Imps, or Snow Imps) may belong to the same **monster set** (e.g., Imps), in which case they would all use the same monster ability deck (e.g., the Imp deck).
 
 Determine the initiative order by comparing the initiative values on all revealed monster ability cards (located in the upper left corner) and all characters’ initiative cards. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Take the initiative order tokens for all monster types and characters on the map and arrange them from **lowest to highest** (i.e., earliest to latest) initiative. 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Take the initiative order tokens for all monster types and characters on the map and arrange them from **lowest to highest** (i.e., earliest to latest) initiative. 
 
 Any character long resting has an initiative of 99. This indicates the turn order for this round.
 
@@ -652,7 +664,7 @@ An action can be referred to by any of its abilities. For example, if an action 
 
 An **ability** is any grouping of text and/or icons, often found on an ability card, that a figure can perform to interact with the map, themselves, or other figures.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> If an action consists of multiple abilities, these will be separated from each other by ability lines. 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> If an action consists of multiple abilities, these will be separated from each other by ability lines. 
 
 Abilities in an action are always performed in the order they are written. Figures cannot perform new abilities while resolving a different ability, with the exception of abilities from attack modifier cards.
 
@@ -668,7 +680,7 @@ Character abilities can be skipped, unless they are mandatory (see [p.37](#page_
 
 #### Line-of-Sight
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> When any figure or hex is targeted by any ability, the acting figure must have a clear **line‑of‑sight** to the target in order to perform the ability. Line-of-sight is established if a line can be drawn from any part of the acting figure’s hex to any part of the target hex without touching a wall line. 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> When any figure or hex is targeted by any ability, the acting figure must have a clear **line‑of‑sight** to the target in order to perform the ability. Line-of-sight is established if a line can be drawn from any part of the acting figure’s hex to any part of the target hex without touching a wall line. 
 
 Only walls and closed doors block line-of-sight. Non-targeted abilities are not affected by line-of-sight. If an ability allows a figure to perform it as if occupying a different hex, draw the line from that hex.
 
@@ -678,13 +690,13 @@ Only walls and closed doors block line-of-sight. Non-targeted abilities are not 
 
 If no target is specified on a targeted ability, the target value is 1, which means it only targets a single figure. For example, if an effect provides "**+1** <picture><img alt="Target Icon" title="Target Icon" src="icons/general/fh-target-bw-icon.png" width="14"></picture>," it would give an ability with no specified target value "<picture><img alt="Target Icon" title="Target Icon" src="icons/general/fh-target-bw-icon.png" width="14"></picture> **2**."
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Attack ([p.25](#page_25)), conditions ([p.28](#page_28)), heal ([p.29](#page_29)), forced movement ([p.32](#page_32)), commanding figures ([p.33](#page_33)), and manipulating tiles ([p.33](#page_33)) are the only targeted abilities. Targeted abilities cannot be performed if there is no valid target.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Attack ([p.25](#page_25)), conditions ([p.28](#page_28)), heal ([p.29](#page_29)), forced movement ([p.32](#page_32)), commanding figures ([p.33](#page_33)), and manipulating tiles ([p.33](#page_33)) are the only targeted abilities. Targeted abilities cannot be performed if there is no valid target.
 
 #### Allies, Enemies, and Self
 
 Characters are allies to other characters, monsters are allies to other monsters, and characters and monsters are enemies to each other. **Figures are not their own allies.**
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> In general, negative abilities can only target enemies, and positive abilities can only target allies or the acting figure themselves. Some abilities have specific targeting information that contradicts this rule. An ability specifying its targets as "all" follows these restrictions, but an ability specifying its targets as "all figures" targets both allies and enemies.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> In general, negative abilities can only target enemies, and positive abilities can only target allies or the acting figure themselves. Some abilities have specific targeting information that contradicts this rule. An ability specifying its targets as "all" follows these restrictions, but an ability specifying its targets as "all figures" targets both allies and enemies.
 
 If any ability specifies its target as "self," the effect can only be applied to the acting figure.
 
@@ -694,7 +706,7 @@ If any ability specifies its target as "self," the effect can only be applied to
 
 Non-attack abilities with no specified range value can target figures at any range. Any ability with a range value specified in the highlighted section to its right is considered a ranged ability.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Figures treat the hex they occupy as adjacent for the purpose of targeting.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Figures treat the hex they occupy as adjacent for the purpose of targeting.
 
 ---
 
@@ -708,11 +720,11 @@ Abilities with an area of effect allow the acting figure to target several diffe
 
 <picture><img alt="Grey Hex Icon" title="Grey Hex Icon" src="icons/general/fh-hex-player-color-icon.png" width="42"></picture>  Gray indicates the hex which the acting figure occupies. Any attack with an area of effect that includes a gray hex is always considered a melee attack (see [p.25](#page_25)).
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> <picture><img alt="Blue Hex Icon" title="Blue Hex Icon" src="icons/general/fh-hex-summon-color-icon.png" width="42"></picture>  Blue indicates a hex which an ally must occupy. The ability cannot be performed otherwise. The ally is not targeted by the ability.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> <picture><img alt="Blue Hex Icon" title="Blue Hex Icon" src="icons/general/fh-hex-summon-color-icon.png" width="42"></picture>  Blue indicates a hex which an ally must occupy. The ability cannot be performed otherwise. The ally is not targeted by the ability.
 
 <picture><img alt="Red Hex Icon" title="Red Hex Icon" src="icons/general/fh-hex-attack-color-icon.png" width="42"></picture>  Red indicates the hexes in which figures can be targeted. Only one red hex needs to be within the ability’s range. This initial hex does not need to contain a figure, but it cannot be inside a wall line, though other red hexes can be inside wall lines. Only figures within line-of-sight can be targeted. Allies in red hexes are not targeted by negative abilities, and enemies in red hexes are not targeted by positive abilities, unless otherwise stated.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> <picture><img alt="Blank Hex Icon" title="Blank Hex Icon" src="icons/general/fh-hex-empty-color-icon.png" width="42"></picture>  Blank hexes are used as spacers between other types of hexes.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> <picture><img alt="Blank Hex Icon" title="Blank Hex Icon" src="icons/general/fh-hex-empty-color-icon.png" width="42"></picture>  Blank hexes are used as spacers between other types of hexes.
 
 If an ability with an area of effect gains "**+1** <picture><img alt="Target Icon" title="Target Icon" src="icons/general/fh-target-bw-icon.png" width="14"></picture>," an additional figure within the ability’s range, but outside the area of effect, can be targeted.
 
@@ -748,11 +760,11 @@ Infused elements can be consumed to add effects to certain abilities or, in some
 
 If an ability depicts multiple separate elemental consumptions, the acting figure chooses which ones to activate. If a single elemental consumption depicts multiple elements, all of those elements must be consumed to activate it. The same element cannot be consumed multiple times in a single turn. 
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> If an action depicts elemental consumptions in the upper left corner, all of those elements must be consumed to perform any part of the action.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> If an action depicts elemental consumptions in the upper left corner, all of those elements must be consumed to perform any part of the action.
 
 <picture><img alt="Wild Icon" title="Wild Icon" src="icons/elements/fh-wild-color-icon.png" width="42"></picture>  The wild icon represents any one of the six elements (but not all of them).
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> <picture><img alt="Mixed Element Icon" title="Mixed Element Icon" src="icons/elements/fh-elements-mixed-color.png" width="42"></picture>  A mixed element icon, which depicts two elements within the same border, represents one of those two elements (but not both of them). When a wild or mixed element is infused, at the end of their turn, the acting figure chooses which of those elements to infuse.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> <picture><img alt="Mixed Element Icon" title="Mixed Element Icon" src="icons/elements/fh-elements-mixed-color.png" width="42"></picture>  A mixed element icon, which depicts two elements within the same border, represents one of those two elements (but not both of them). When a wild or mixed element is infused, at the end of their turn, the acting figure chooses which of those elements to infuse.
 
 ---
 
@@ -765,14 +777,14 @@ If an ability depicts multiple separate elemental consumptions, the acting figur
 ### Move
 
 <picture><img alt="Move Icon" title="Move Icon" src="icons/general/fh-move-bw-icon.png" width="42"></picture>  "**Move X**" is an ability that gives a figure X movement points. That figure may then spend those movement points to move one hex per movement point. Figures can move through allies but cannot move through enemies, obstacles, objectives, or walls. Traps and other effects of hexes trigger when a figure enters them.
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> A figure must always end their movement in an unoccupied hex. A figure must enter at least one hex to be considered to have performed a move ability. 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> A figure must always end their movement in an unoccupied hex. A figure must enter at least one hex to be considered to have performed a move ability. 
 
 All unspent movement points are lost at the end of the move ability.
 
 ### Jump
 
 <picture><img alt="Jump Icon" title="Jump Icon" src="icons/general/fh-jump-bw-icon.png" width="42"></picture>  "**Jump**" is an added effect of a move ability. Jumping allows a figure to ignore all enemies, obstacles, objectives, traps, and hazardous terrain, except for in the last hex. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Difficult terrain and icy terrain are ignored completely when jumping.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Difficult terrain and icy terrain are ignored completely when jumping.
 
 A figure cannot jump through walls.
 
@@ -780,11 +792,11 @@ A figure cannot jump through walls.
 
 <picture><img alt="Flying Icon" title="Flying Icon" src="icons/general/fh-flight-bw-icon.png" width="42"></picture>  "**Flying**" is an active bonus (see [p.30](#page_30)). Flying allows a figure to completely ignore all enemies, obstacles, objectives, traps, and overlay terrain, including in the last hex. However, a flying figure still cannot end their movement in a hex occupied by another figure (and vice versa). If a flying figure occupies a hex with an immobilize trap or stun trap (see [p.29](#page_29)), treat them as an obstacle when determining the movement of other figures.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> If a figure loses flying, treat them as if entering their current hex with a normal movement. In such cases, if the figure currently occupies a hex with an obstacle, they instead move into the closest unoccupied hex without an obstacle, triggering any effects of that hex.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> If a figure loses flying, treat them as if entering their current hex with a normal movement. In such cases, if the figure currently occupies a hex with an obstacle, they instead move into the closest unoccupied hex without an obstacle, triggering any effects of that hex.
 
 ### Teleport
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> <picture><img alt="Teleport Icon" title="Teleport Icon" src="icons/general/fh-teleport-bw-icon.png" width="42"></picture>  "**Teleport X**" is an ability that transports a figure to any location within X hexes of their current hex, without evaluating their path through all of the hexes between. A teleport ability is not considered a move ability, and teleporting is not considered movement. Teleportation is not affected by anything, even walls, in the hexes between. A figure can only teleport to a valid hex, and any effects of entering that hex still trigger normally, unless otherwise stated. A figure cannot teleport into an unrevealed room, but they can teleport to a hex with a closed door, opening the door as a result
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> <picture><img alt="Teleport Icon" title="Teleport Icon" src="icons/general/fh-teleport-bw-icon.png" width="42"></picture>  "**Teleport X**" is an ability that transports a figure to any location within X hexes of their current hex, without evaluating their path through all of the hexes between. A teleport ability is not considered a move ability, and teleporting is not considered movement. Teleportation is not affected by anything, even walls, in the hexes between. A figure can only teleport to a valid hex, and any effects of entering that hex still trigger normally, unless otherwise stated. A figure cannot teleport into an unrevealed room, but they can teleport to a hex with a closed door, opening the door as a result
 
 ---
 
@@ -796,7 +808,7 @@ A figure cannot jump through walls.
 
 "**Attack X**" is a negative targeted ability that allows a figure to deal a base amount of X damage to an enemy within the specified range.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> An attack with no specified range value is considered a melee attack with range 1, capable of targeting adjacent enemies only, unless otherwise stated. For example, if an effect provides "**+ Y** <picture><img alt="Range Icon" title="Range Icon" src="icons/general/fh-range-bw-icon.png" width="14"></picture>" to an attack, it would give the attack with no specified range value"<picture><img alt="Range Icon" title="Range Icon" src="icons/general/fh-range-bw-icon.png" width="14"></picture> **1 + Y**" and make it a ranged attack.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> An attack with no specified range value is considered a melee attack with range 1, capable of targeting adjacent enemies only, unless otherwise stated. For example, if an effect provides "**+ Y** <picture><img alt="Range Icon" title="Range Icon" src="icons/general/fh-range-bw-icon.png" width="14"></picture>" to an attack, it would give the attack with no specified range value"<picture><img alt="Range Icon" title="Range Icon" src="icons/general/fh-range-bw-icon.png" width="14"></picture> **1 + Y**" and make it a ranged attack.
 
 An **attack** is a single attack performed against one target, an **attack ability** is an ability that consists of one or more separate attacks, and an **attack action** is any action that contains at least one attack ability.
 
@@ -807,7 +819,7 @@ When an attack is performed, the base attack value written on the card can be mo
 1. All applicable attack bonuses and penalties, such as "**± <picture><img alt="Attack Icon" title="Attack Icon" src="icons/general/fh-attack-bw-icon.png" width="14"></picture>**" effects, are applied. If there are multiple bonuses or penalties, the party chooses the order in which they are applied.
 1. An attack modifier card is drawn from the attacker’s deck and applied.
 1. The target’s shield bonus is applied (see [p.31](#page_31)).
-1. > <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Ward and brittle are applied (see [p.28](#page_28)). If the target has both conditions, they negate each other and are removed.
+1. > <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Ward and brittle are applied (see [p.28](#page_28)). If the target has both conditions, they negate each other and are removed.
 
 Once all modifications have been applied, the target suffers the resulting amount of damage. If the target has any abilities or effects which can negate a source of damage, including losing cards to negate damage (see [p.38](#page_38)), they may apply them now.
 
@@ -820,7 +832,7 @@ Any time an attack ability is performed, **a separate attack modifier card is dr
 Attack modifier cards are only drawn for attacks. They are not used for any other type of effect that deals damage.
 
 Characters each have their own deck, while all monsters share a single deck. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> If a scenario includes scenario allies, they all use the separate ally deck.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> If a scenario includes scenario allies, they all use the separate ally deck.
 
 Characters, monsters, and allies start with a standard deck of six <picture><img alt="0 Icon" title="0 Icon" src="icons/attack-modifiers/fh-plus-0-bw-icon.png" width="14"></picture>, five <picture><img alt="-1 Icon" title="-1 Icon" src="icons/attack-modifiers/fh-minus-1-color-icon.png" width="14"></picture>, five <picture><img alt="+1 Icon" title="+1 Icon" src="icons/attack-modifiers/fh-plus-1-color-icon.png" width="14"></picture>, one <picture><img alt="-2 Icon" title="-2 Icon" src="icons/attack-modifiers/fh-minus-2-color-icon.png" width="14"></picture>, one <picture><img alt="+2 Icon" title="+2 Icon" src="icons/attack-modifiers/fh-plus-2-color-icon.png" width="14"></picture>, one <picture><img alt="Miss Icon" title="Miss Icon" src="icons/attack-modifiers/fh-miss-icon.png" width="14"></picture>, and one <picture><img alt="2X Icon" title="2X Icon" src="icons/attack-modifiers/fh-2x-icon.png" width="14"></picture>, but characters can customize their decks over time through perks (see [p.63](#page_63)), allowing for other diverse effects.
 
@@ -864,7 +876,7 @@ The attacker must choose whether to apply any attack effects before they draw an
 Some attacks have abilities (e.g., heal abilities) that aren’t attack effects but are still attached to the attack. These abilities are performed after the attack is resolved completely (including after any retaliate bonus).
 
 Some modifiers have added effects, besides modifying the attack value, and **an attacking character can always choose** whether to apply those effects after the modifier is drawn. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> If another figure uses a character’s deck, the character controls the added effects of the modifier even though the attacking figure applies them.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> If another figure uses a character’s deck, the character controls the added effects of the modifier even though the attacking figure applies them.
 
 Modifiers that affect a character’s class-specific resources (e.g., the Blinkblade’s time tokens) or abilities (e.g., the Drifter’s use slot tokens) are always applied to that character, no matter who draws the modifier.
 
@@ -877,9 +889,9 @@ Modifiers that affect a character’s class-specific resources (e.g., the Blinkb
 #### Advantage and Disadvantage
 
 Some effects cause an attack to gain advantage or disadvantage. With **advantage**, the attacker draws two modifiers and uses one of them. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> A monster always uses the better one, but a character may use either one. With **disadvantage**, the attacker draws two modifiers and always uses the worse one.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> A monster always uses the better one, but a character may use either one. With **disadvantage**, the attacker draws two modifiers and always uses the worse one.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> If the first draw with advantage or disadvantage is a rolling modifier <picture><img alt="Rolling Modifier Icon" title="Rolling Modifier Icon" src="icons/conditions/fh-rolling-color-icon.png" width="14"></picture>, the attacker draws additional modifiers, one at a time, until a non-rolling modifier is drawn. **They then draw one more modifier and ignore any rolling icon on it.** 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> If the first draw with advantage or disadvantage is a rolling modifier <picture><img alt="Rolling Modifier Icon" title="Rolling Modifier Icon" src="icons/conditions/fh-rolling-color-icon.png" width="14"></picture>, the attacker draws additional modifiers, one at a time, until a non-rolling modifier is drawn. **They then draw one more modifier and ignore any rolling icon on it.** 
 >
 > The first non-rolling modifier and the one after it are compared. If the attack has advantage, the attacker uses all initial rolling modifiers and whichever of the last two modifiers they choose. If the attack has disadvantage, the attacker ignores all initial rolling modifiers and uses whichever of the last two modifiers is worse.
 >
@@ -906,7 +918,7 @@ An attack cannot gain multiple instances of advantage or disadvantage. If an att
 A condition ability is a positive or negative targeted ability, depending on the specified condition, and causes the target of the ability to gain that condition.
 
 When a monster gains a condition — except bless or curse — place the matching token on its stat sleeve in the section corresponding to the number on its standee. When a character gains a condition — except bless or curse — place the matching token on their character mat. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Bless and curse tokens are only used for tracking the effects of traps (see [p.14](#page_14)). Once gained, a condition remains until the requirements for its removal are met. Neither positive nor negative conditions can be removed voluntarily. A figure cannot have multiple instances of the same condition; however, if a figure gains a condition they already have, the effect’s duration resets.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Bless and curse tokens are only used for tracking the effects of traps (see [p.14](#page_14)). Once gained, a condition remains until the requirements for its removal are met. Neither positive nor negative conditions can be removed voluntarily. A figure cannot have multiple instances of the same condition; however, if a figure gains a condition they already have, the effect’s duration resets.
 
 If a figure gains a condition during their turn that is removed "at the end of the figure’s next turn," the condition goes into effect immediately and applies until the end of their next turn. Conditions which are removed at the end of a figure’s turn are only removed after all other end-of-turn effects are resolved.
 
@@ -914,12 +926,12 @@ A condition effect can also be added to other abilities as an added effect, caus
 
 #### Positive Conditions
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture>  <picture><img alt="Regenerate Icon" title="Regenerate Icon" src="icons/conditions/fh-regenerate-color-icon.png" width="42"></picture>  **Regenerate:** The figure performs "Heal 1, self" (see [p.29](#page_29)) at the start of each of their turns, even if they have stun. Regenerate is removed when the figure suffers damage. If a figure has both regenerate and wound (see [p.29](#page_29)), the regenerate effect is applied first, removing wound before it takes effect.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture>  <picture><img alt="Regenerate Icon" title="Regenerate Icon" src="icons/conditions/fh-regenerate-color-icon.png" width="42"></picture>  **Regenerate:** The figure performs "Heal 1, self" (see [p.29](#page_29)) at the start of each of their turns, even if they have stun. Regenerate is removed when the figure suffers damage. If a figure has both regenerate and wound (see [p.29](#page_29)), the regenerate effect is applied first, removing wound before it takes effect.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture>  <picture><img alt="Ward Icon" title="Ward Icon" src="icons/conditions/fh-ward-color-icon.png" width="42"></picture>  **Ward:** The next time the figure suffers damage from any source, they instead suffer half that amount of damage (rounded down), and ward is then removed. If a figure that suffers damage has both ward and brittle (see [p.29](#page_29)), they negate each other and are removed.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture>  <picture><img alt="Ward Icon" title="Ward Icon" src="icons/conditions/fh-ward-color-icon.png" width="42"></picture>  **Ward:** The next time the figure suffers damage from any source, they instead suffer half that amount of damage (rounded down), and ward is then removed. If a figure that suffers damage has both ward and brittle (see [p.29](#page_29)), they negate each other and are removed.
 
 <picture><img alt="Invisible Icon" title="Invisible Icon" src="icons/conditions/fh-invisible-color-icon.png" width="42"></picture>  **Invisible:** The figure cannot be focused on or targeted by any enemy, though non-targeted abilities remain unaffected. The figure and their allies can still interact with each other. Invisible is removed at the end of the figure’s next turn.
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Enemies treat figures with invisible as if they were not there; they can move through figures with invisible but still cannot end their movement in the same hex.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Enemies treat figures with invisible as if they were not there; they can move through figures with invisible but still cannot end their movement in the same hex.
 
 <picture><img alt="Strengthen Icon" title="Strengthen Icon" src="icons/conditions/fh-strengthen-color-icon.png" width="42"></picture>  **Strengthen:** The figure gains advantage on all of their attacks. Strengthen is removed at the end of the figure’s next turn.
 
@@ -935,9 +947,9 @@ A condition effect can also be added to other abilities as an added effect, caus
 
 <picture><img alt="Wound Icon" title="Wound Icon" src="icons/conditions/fh-wound-color-icon.png" width="42"></picture>  **Wound:** The figure suffers 1 damage at the start of each of their turns. Wound is removed when the figure is healed.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> <picture><img alt="Brittle Icon" title="Brittle Icon" src="icons/conditions/fh-brittle-color-icon.png" width="42"></picture>  **Brittle:** The next time the figure would suffer damage from any source, they instead suffer double that amount of damage, and brittle is then removed. Brittle is also removed if the figure is healed.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> <picture><img alt="Brittle Icon" title="Brittle Icon" src="icons/conditions/fh-brittle-color-icon.png" width="42"></picture>  **Brittle:** The next time the figure would suffer damage from any source, they instead suffer double that amount of damage, and brittle is then removed. Brittle is also removed if the figure is healed.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> <picture><img alt="Bane Icon" title="Bane Icon" src="icons/conditions/fh-bane-color-icon.png" width="42"></picture>  **Bane:** The figure suffers 10 damage at the end of their next turn, and bane is then removed. Bane is also removed if the figure is healed.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> <picture><img alt="Bane Icon" title="Bane Icon" src="icons/conditions/fh-bane-color-icon.png" width="42"></picture>  **Bane:** The figure suffers 10 damage at the end of their next turn, and bane is then removed. Bane is also removed if the figure is healed.
 
 <picture><img alt="Poison Icon" title="Poison Icon" src="icons/conditions/fh-poison-color-icon.png" width="42"></picture>  **Poison:** All attacks targeting the figure gain "**+1** <picture><img alt="Attack Icon" title="Attack Icon" src="icons/general/fh-attack-bw-icon.png" width="14"></picture>." Poison is removed when the figure is healed but, unlike wound/brittle/bane, poison prevents the heal from increasing the figure’s current hit point value.
 
@@ -945,7 +957,7 @@ A condition effect can also be added to other abilities as an added effect, caus
 
 <picture><img alt="Disarm Icon" title="Disarm Icon" src="icons/conditions/fh-disarm-color-icon.png" width="42"></picture>  **Disarm:** The figure cannot perform any attack abilities. Disarm is removed at the end of the figure’s next turn.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> <picture><img alt="Impair Icon" title="Impair Icon" src="icons/conditions/fh-impair-color-icon.png" width="42"></picture>  **Impair:** Impair can only be gained by characters. The character cannot use or trigger any items, but bonuses previously gained from items are still active. Impair is removed at the end of the character’s next turn. 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> <picture><img alt="Impair Icon" title="Impair Icon" src="icons/conditions/fh-impair-color-icon.png" width="42"></picture>  **Impair:** Impair can only be gained by characters. The character cannot use or trigger any items, but bonuses previously gained from items are still active. Impair is removed at the end of the character’s next turn. 
 
 <picture><img alt="Stun Icon" title="Stun Icon" src="icons/conditions/fh-stun-color-icon.png" width="42"></picture>  **Stun:** The figure cannot perform any abilities or use or trigger any items, but bonuses previously gained are still active. Stun is removed at the end of the figure’s next turn. At the start of the round, stunned characters still must select two cards to play (or declare a long rest), but the cards will be discarded with no effect if stun is not removed by some other means before the end of their turn. Long resting still occurs normally for stunned characters.
 
@@ -959,7 +971,7 @@ A condition effect can also be added to other abilities as an added effect, caus
 
 Heal effects from attack modifier cards function exactly like heal abilities. If multiple modifiers with heal effects are drawn, they are considered a single heal ability.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> A single heal can remove any combination of wound, brittle, bane, and poison from a figure. However, if poison is present, the hit point increase is prevented.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> A single heal can remove any combination of wound, brittle, bane, and poison from a figure. However, if poison is present, the hit point increase is prevented.
 
 ---
 
@@ -979,7 +991,7 @@ Active bonus abilities have icons to indicate the duration of the bonuses they p
 
 If the bonus has limited uses, these are tracked by a series of use slots. When the card is placed in the active area, a character token is added to the first slot. Each time the bonus is triggered, the token advances by one slot, even if no benefit is gained. When the token passes an experience icon <picture><img alt="Experience Icon" title="Experience Icon" src="icons/general/fh-xp-bw-icon.png" width="14"></picture>, the character gains that much experience (see [p.37](#page_37)). When the token leaves the last slot, the bonus expires. If no removal condition is specified, the bonus expires at the end of the scenario. If the bonus lasts for a limited number of rounds or turns, the round or turn in which it is activated does not count.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> A character may voluntarily remove a card with a persistent bonus (but not a round bonus) from their active area before the bonus expires, but doing so removes the bonus. This can be done at any time except during another ability.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> A character may voluntarily remove a card with a persistent bonus (but not a round bonus) from their active area before the bonus expires, but doing so removes the bonus. This can be done at any time except during another ability.
 
 Actions with active bonus abilities might also have other abilities, but these other abilities are only performed when the card is played.
 
@@ -994,12 +1006,12 @@ There is a wide variety of active bonus abilities. While these abilities are usu
 #### Shield
 
 <picture><img alt="Shield Icon" title="Shield Icon" src="icons/general/fh-shield-bw-icon.png" width="42"></picture>  "**Shield X**" is a positive ability that gives the acting figure a shield bonus of X. This reduces the attack value of an incoming attack by X. The shield bonus is only applied after all attack bonuses or penalties and modifiers have been applied. Multiple shield bonuses stack with one another as a single reduction in attack value. **A shield bonus does not apply to sources of damage that are not attacks.**
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> A shield ability always applies to the acting figure.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> A shield ability always applies to the acting figure.
 
 #### Retaliate
 
 <picture><img alt="Retaliate Icon" title="Retaliate Icon" src="icons/general/fh-retaliate-bw-icon.png" width="42"></picture>  "**Retaliate X**" is a positive ability that gives the acting figure a retaliate bonus of X. This deals X damage to any figure who attacks them, if they are within the specified range after all attack effects are resolved (including push or pull). If no range is specified, the bonus is only applied to adjacent attackers. This bonus is triggered by each attack and occurs after the attack is resolved. A retaliate bonus is not an attack or targeted effect, therefore the damage cannot be reduced by a shield bonus. If a retaliating figure is killed or exhausted by an attack, the retaliate bonus does not occur. Multiple retaliate bonuses stack with one another as a single source of damage, but each retaliate bonus is only applied within its specified range. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> A retaliate ability always applies to the acting figure.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> A retaliate ability always applies to the acting figure.
 
 #### Summon
 
@@ -1007,14 +1019,14 @@ Summon is a positive ability that adds other allied figures to the map. These fi
 
 A character summon is considered a persistent bonus, and their card is placed in the summoner’s active area. When the summon’s hit point value is reduced to zero, the summon is removed from the map. The summoner may voluntarily remove the summon from the map at any time except during another ability. The card is then placed in the summoner’s discard pile or lost pile, depending on whether the action has a lost icon (see [p.38](#page_38)).
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Each character summon has a corresponding standee, found in the summoner’s tuck box, that is used to represent them on the map, using a blue standee base.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Each character summon has a corresponding standee, found in the summoner’s tuck box, that is used to represent them on the map, using a blue standee base.
 
 When a character becomes exhausted, all of their summons are removed from the map.
 
 Character summons have stats for their hit point, attack, move, and range values, along with any special traits listed on their ability cards. If a summon’s attack or move value is "–", then they do not perform that ability unless granted an ability with a base value. If a summon’s range value is "–", then they do not perform ranged attacks unless granted that ability (see [p.33](#page_33)).
 
 A character summon’s turn in the initiative order is always directly before their summoner and is separate from the summoner’s turn. Summons are not controlled by their summoner, but instead obey automated monster rules, performing "<picture><img alt="Move Icon" title="Move Icon" src="icons/general/fh-move-bw-icon.png" width="14"></picture>**+0**, <picture><img alt="Attack Icon" title="Attack Icon" src="icons/general/fh-attack-bw-icon.png" width="14"></picture>**+0**" (see [p.41](#page_41)). A summon uses their summoner’s attack modifier deck when attacking. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> If a character summon cannot find a focus, the summoner may choose for the summon to move toward them instead.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> If a character summon cannot find a focus, the summoner may choose for the summon to move toward them instead.
 
 A character can have multiple summons on the map at once. Each new summon’s card is placed to the right of the previous summon’s card in the summoner’s active area. In such cases, the summons will act in that order (from left to right). If there are multiple copies of the same summon on the map at once, the order in which they were summoned determines their acting order, which can be tracked using their standee numbers.
 
@@ -1028,7 +1040,7 @@ A character can have multiple summons on the map at once. Each new summon’s ca
 
 ### Forced Movement
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Forced movement is any negative targeted ability that allows a figure to control another figure’s movement or to teleport another figure. 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Forced movement is any negative targeted ability that allows a figure to control another figure’s movement or to teleport another figure. 
 
 Forced movement must follow all normal movement rules for the target. For example, if a flying figure is forced to move, flying still applies. There are two primary forced movement abilities:
 
@@ -1036,7 +1048,7 @@ Forced movement must follow all normal movement rules for the target. For exampl
 
 <picture><img alt="Pull Icon" title="Pull Icon" src="icons/conditions/fh-pull-color-icon.png" width="42"></picture>  "**Pull X**" forces the target to move up to X hexes toward the acting figure. Each individual hex entered must place the target closer by range to the acting figure.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> When a character performs a push or a pull, they decide the direction and distance that the target moves. 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> When a character performs a push or a pull, they decide the direction and distance that the target moves. 
 
 When a monster performs a push or a pull, the party decides the direction, but the target must move as far as possible. Push and pull are unaffected by difficult terrain, but all other normal movement rules are still applied (including the rules for flying figures). Immobilized or stunned figures can still be affected by push, pull, and teleport but not by any other type of forced movement.
 
@@ -1052,12 +1064,12 @@ Some abilities cause figures to suffer damage without an attack being performed.
 
 <picture><img alt="Loot Icon" title="Loot Icon" src="icons/general/fh-loot-bw-icon.png" width="42"></picture>  "**Loot X**" is an ability that allows a figure to loot all loot tokens and treasure tiles within range X, including any in their current hex. This ability is unaffected by the presence of figures or overlay tiles. If there are no loot tokens or treasure tiles within the specified range, the ability cannot be performed.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> When a loot token is looted, it is removed from the map. If the looting figure is a monster, nothing else happens. If the looting figure is a character, they draw one card from the loot deck (unless the loot deck is empty). 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> When a loot token is looted, it is removed from the map. If the looting figure is a monster, nothing else happens. If the looting figure is a character, they draw one card from the loot deck (unless the loot deck is empty). 
 >
 > If the loot card provides a random item, the looting character checks off <picture><img alt="Treasure Chest Icon" title="Treasure Chest Icon" src="icons/general/fh-treasure-chest-bw-icon.png" width="14"></picture> **(x1)** in the scenario entry’s loot table, then draws one card from the random item deck and adds it to their pool of items. They may then use it normally for the remainder of the scenario, even if it puts them above the limit for that type of item. If the random item deck is empty, this card is considered a money card with three coins. If the loot card provides money or resources, the looting character does not gain them until the end of the scenario (see [p.47](#page_47)).
 
 When a treasure tile is looted, it is removed from the map. Monsters cannot loot treasure tiles. If the looted treasure tile is a numbered treasure, reference the treasure’s number in the Treasure Index and apply the effect (see [p.78](#page_78)). Only the looting character gains the reward, unless it is a random item blueprint or random scenario. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> If a looting character gains another copy of an item they already own, they must give it to another character or sell it immediately (see [p.67](#page_67)).
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> If a looting character gains another copy of an item they already own, they must give it to another character or sell it immediately (see [p.67](#page_67)).
 
 ---
 
@@ -1071,7 +1083,7 @@ When a treasure tile is looted, it is removed from the map. Monsters cannot loot
 
 ### Commanding Figures
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Commanding figures is a targeted ability that allows a figure to command another figure to perform certain abilities. There are two ways to command figures:
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Commanding figures is a targeted ability that allows a figure to command another figure to perform certain abilities. There are two ways to command figures:
 >
 > * **Grant:** Allows a figure to grant an ability to any figure. The commanded figure then performs that ability. If the commanded figure is a character summon or scenario ally, the commanding figure decides how the ability is performed.
 > * **Control:** Allows a figure to control an ability of an enemy. The commanded figure then performs that ability, and the commanding figure decides how the ability is performed. During this ability, the commanded figure treats the commanding figure’s allies and enemies as their own allies and enemies. When a move ability is controlled, it is considered forced movement.
@@ -1082,7 +1094,7 @@ When a treasure tile is looted, it is removed from the map. Monsters cannot loot
 
 ### Manipulating Tiles
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Manipulating tiles is any ability that allows a figure to alter the layout of overlay tiles on the map. There are six ways to manipulate tiles:
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Manipulating tiles is any ability that allows a figure to alter the layout of overlay tiles on the map. There are six ways to manipulate tiles:
 > 
 > * **Create:** Allows a figure to place an overlay tile.
 > * **Destroy:** Allows a figure to remove an overlay tile.
@@ -1134,7 +1146,7 @@ An item card has the following:
 
 * (A) **Item Name:** The name of the item.
 * (B) **Item Cost:** The gold cost if it is a purchasable item (see [p.67](#page_67)) 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> or the crafting cost if it is a craftable item (see [p.65](#page_65)).
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> or the crafting cost if it is a craftable item (see [p.65](#page_65)).
 * (C) **Item Usage:** What happens to the item after it has been used (see [p.36](#page_36)). Some items are only spent, while others are lost instead. Some items can even be used multiple times first.
 * (D) **Item Effect:** When the item can be used and what bonus or ability the character gains.
 * (E) **Item Type:** Each item counts as one of six types: <picture><img alt="Head Item Icon" title="Head Item Icon" src="icons/general/fh-equip-slot-head-bw-icon.png" width="14"></picture>, <picture><img alt="Body Item Icon" title="Body Item Icon" src="icons/general/fh-equip-slot-body-bw-icon.png" width="14"></picture>, <picture><img alt="Legs Item Icon" title="Legs Item Icon" src="icons/general/fh-equip-slot-legs-bw-icon.png" width="14"></picture>, <picture><img alt="Single Hand Item Icon" title="Single Hand Item Icon" src="icons/general/fh-equip-slot-single-hand-bw-icon.png" width="14"></picture>, <picture><img alt="Dual Hand Item Icon" title="Dual Hand Item Icon" src="icons/general/fh-equip-slot-dual-hand-bw-icon.png" width="14"></picture>, or <picture><img alt="Small Item Icon" title="Small Item Icon" src="icons/general/fh-equip-slot-item-bw-icon.png" width="14"></picture>. These types determine which items a character can bring into a scenario.
@@ -1168,12 +1180,12 @@ A character can own more items than they bring into a scenario, but they cannot 
 
 <picture><img alt="Lost Icon" title="Lost Icon" src="icons/general/fh-lost-black-card-color-icon.png" width="42"></picture>  **Lost Icon:** The lost icon means the item is lost after use. This is indicated by flipping the card face down. Lost items cannot be used again for the rest of the scenario (unless recovered). If an item has the <picture><img alt="Unrecoverable Icon" title="Unrecoverable Icon" src="icons/general/fh-non-return-card-color-icon.png" width="14"></picture> icon, it cannot be recovered by any means until the end of the scenario.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> <picture><img alt="Flip Icon" title="Flip Icon" src="icons/general/fh-flip-back-to-front-generic-color-icon.png" width="42"></picture>  **Flip Icon:** The flip icon means the item is flipped after use, revealing a different use on the other side of the card. When the other side is used, the item is then flipped over back to its front side to be used again. The specific timing of when to flip the card is detailed in its text. Characters should always start the scenario with these items on the side with the gold cost or crafting cost.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> <picture><img alt="Flip Icon" title="Flip Icon" src="icons/general/fh-flip-back-to-front-generic-color-icon.png" width="42"></picture>  **Flip Icon:** The flip icon means the item is flipped after use, revealing a different use on the other side of the card. When the other side is used, the item is then flipped over back to its front side to be used again. The specific timing of when to flip the card is detailed in its text. Characters should always start the scenario with these items on the side with the gold cost or crafting cost.
 
 Some items do not have any of these icons. This means the item applies a passive effect. There is no limit on how many times an item with a passive effect can be used.
 
 Some items can be used multiple times before they are spent, lost, or flipped. This is indicated by a series of use slots on the item. Use a character token to track these uses. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> When an item with multiple uses is recovered, even before it has been fully spent, reset the character token to the first use slot.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> When an item with multiple uses is recovered, even before it has been fully spent, reset the character token to the first use slot.
 
 Some recover abilities can recover spent or lost items, just like discarded or lost ability cards. All items are returned to their original state between scenarios. No item can ever be permanently lost.
 
@@ -1191,7 +1203,7 @@ Items with use slots and passive effects must be used if the item’s requiremen
 
 ### Mandatory Triggers
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> If any part of an action is performed, certain abilities and effects of that action cannot be skipped. In such cases, the ability or effect is highlighted in a box with an "**!**" in front of it. These include:
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> If any part of an action is performed, certain abilities and effects of that action cannot be skipped. In such cases, the ability or effect is highlighted in a box with an "**!**" in front of it. These include:
 >
 > * (A) **Negative Abilities:** The indicated ability creates a negative effect for the character or their allies.
 
@@ -1236,12 +1248,12 @@ During the Card Selection step (see [p.18](#page_18)), a character may declare a
 
 If the lost action was used to perform an active bonus ability, the card is still considered lost and must be moved from the active area to the lost pile once the active bonus is no longer in effect.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Some lost actions have the <picture><img alt="Unrecoverable Icon" title="Unrecoverable Icon" src="icons/general/fh-non-return-card-color-icon.png" width="14"></picture> icon. If a character performs an action with this icon, when the card is placed in the lost pile, rotate it 180 degrees so that it is upside down. This card cannot be recovered by any means until the end of the scenario.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Some lost actions have the <picture><img alt="Unrecoverable Icon" title="Unrecoverable Icon" src="icons/general/fh-non-return-card-color-icon.png" width="14"></picture> icon. If a character performs an action with this icon, when the card is placed in the lost pile, rotate it 180 degrees so that it is upside down. This card cannot be recovered by any means until the end of the scenario.
 
 ### Character Damage
 
 When a character would suffer any amount of damage 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> (after ward or brittle is applied), 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> (after ward or brittle is applied), 
 
 they must either reduce their red hit point dial by that amount or negate the damage. Damage can be negated in two ways:
 
@@ -1287,7 +1299,7 @@ A monster stat card can have the following:
 * (F) **Attack Value:** This is the base amount of damage that a monster of this type deals when performing an attack ability.
 * (G) **Persistent Bonuses:** These are active bonuses that a monster of this type has for the entire scenario.
 * (H) **Attack Effects:** These are effects that apply to all attack abilities performed by a monster of this type.
-> * <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> (I) **Condition Immunities:** These are conditions that a monster of this type is prevented from gaining due to immunity.
+> * <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> (I) **Condition Immunities:** These are conditions that a monster of this type is prevented from gaining due to immunity.
 
 ---
 
@@ -1301,7 +1313,7 @@ Each monster set has a deck of **eight monster ability cards**. After the charac
 
 A monster ability card can have the following:
 
-> * <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> (A) **Card Name:** A thematic name for the card.
+> * <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> (A) **Card Name:** A thematic name for the card.
 
 * (B) **Initiative Value:** This value determines when the monsters in this set act during the round.
 * (C) **List of Abilities:** This list indicates which abilities the monsters in this set perform on their turns, if possible, and in what order.
@@ -1327,7 +1339,7 @@ A monster set acts based on the initiative value on the ability card drawn for t
 ### Focus
 
 At the start of its turn, a monster finds a focus. This focus is **the enemy it can perform its attack on using the fewest movement points.** 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Determining the shortest possible path takes into consideration the effects of difficult terrain and icy terrain.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Determining the shortest possible path takes into consideration the effects of difficult terrain and icy terrain.
 
 For a melee attack, the monster identifies the shortest possible path to a hex from which it can perform the melee attack. For a ranged attack, the monster identifies the shortest possible path to a hex from which it can perform the ranged attack within the specified range. If the monster cannot attack on its turn, either because it does not have an attack ability or because it has disarm, it focuses as if for a single-target melee attack.
 
@@ -1358,14 +1370,14 @@ It is possible that a monster is unable to find a focus if it cannot reach a val
 Once a monster has found a focus and identified its path to that focus, it then performs the abilities listed on its ability card in order — the first of which is usually to move. A monster only moves on its turn if "<picture><img alt="Move Icon" title="Move Icon" src="icons/general/fh-move-bw-icon.png" width="14"></picture> **± X**" is listed on its ability card. This move ability gives the monster an amount of movement points equal to its base move stat (found on its stat card) modified by X (either positive or negative).
 
 A monster always uses the fewest movement points required to maximize its attacks for its current turn. If a monster cannot attack its focus on its current turn, it only moves if it can shorten the path to its focus. When a monster performs a ranged attack on an adjacent target, it first moves away from that target if possible, so that the attack does not have disadvantage. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> When a monster performs ranged attacks on multiple targets, it moves to attack the most possible targets (including its focus), with the fewest possible disadvantaged attacks, while using the fewest possible movement points.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> When a monster performs ranged attacks on multiple targets, it moves to attack the most possible targets (including its focus), with the fewest possible disadvantaged attacks, while using the fewest possible movement points.
 
 Having abilities other than <picture><img alt="Attack Icon" title="Attack Icon" src="icons/general/fh-attack-bw-icon.png" width="14"></picture> listed on its ability card does not affect a monster’s movement in any way. It will simply move according to the above rules and then perform its other abilities as fully as possible.
 
 ### Monster Attacks
 
 A monster only attacks on its turn if "<picture><img alt="Attack Icon" title="Attack Icon" src="icons/general/fh-attack-bw-icon.png" width="14"></picture> **± X**" is listed on its ability card. This attack ability allows the monster to attack using its base attack stat (found on its stat card) modified by X (either positive or negative).
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> The range of the attack is specified on the ability card. If no range is specified, it is a melee attack. If a monster lists multiple targets as an attack effect on its stat card, the number of targets can be modified by "<picture><img alt="Target Icon" title="Target Icon" src="icons/general/fh-target-bw-icon.png" width="14"></picture> **± X**" effects.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> The range of the attack is specified on the ability card. If no range is specified, it is a melee attack. If a monster lists multiple targets as an attack effect on its stat card, the number of targets can be modified by "<picture><img alt="Target Icon" title="Target Icon" src="icons/general/fh-target-bw-icon.png" width="14"></picture> **± X**" effects.
 
 A monster only attacks its focus (or foci in the case of multiple targets). When its ability card lists multiple attack abilities, a monster can perform all of those attacks on a single focus. If a monster kills or exhausts its focus and still has attacks remaining, it will use the focus rules to find a new focus.
 
@@ -1385,17 +1397,17 @@ A monster only attacks its focus (or foci in the case of multiple targets). When
 
 * **Negative Targeted Abilities:** The monster uses the focus rules to find the targets for these abilities as if they were attack abilities, but this does not affect how it moves.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> * **Positive Conditions:** The monster applies the condition to itself or an ally within the specified range. It always targets the monster at the closest range that does not already have the condition. If there is a tie for closest range, it targets the monster that acts earliest in the initiative order.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> * **Positive Conditions:** The monster applies the condition to itself or an ally within the specified range. It always targets the monster at the closest range that does not already have the condition. If there is a tie for closest range, it targets the monster that acts earliest in the initiative order.
 
 * **Summon Abilities:** Some monsters can summon other monsters onto the map. Monster summons behave just like other monsters, acting according to the monster ability cards of their set. <br>
 A monster summon must be placed in an empty hex adjacent to its summoner and as close to an enemy as possible. If there is no adjacent hex available, or no standee of the corresponding monster type, the figure is not summoned. Monster summons never take a turn during the round in which they are summoned. When a summoner is killed, its monster summons remain on the map.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> If a monster summon does not have a monster ability card drawn for its set this round, draw one to determine an initiative value solely for the purpose of determining the focus of other figures’ abilities.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> If a monster summon does not have a monster ability card drawn for its set this round, draw one to determine an initiative value solely for the purpose of determining the focus of other figures’ abilities.
 
 ### Monsters and Elements
 
 Monsters can infuse and consume elements.
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> When a monster ability card depicts an infusion or consumption, it triggers if at least one monster of the set performs an ability. 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> When a monster ability card depicts an infusion or consumption, it triggers if at least one monster of the set performs an ability. 
 
 An infusion occurs when the last monster of the set ends their turn, while a consumption occurs when the first monster of the set starts their turn and benefits every monster of the set.
 
@@ -1418,14 +1430,14 @@ Other than when summoned, monsters can be added to the map in two different ways
 
 Unlike monsters that have been summoned, monsters that have been revealed or spawned act during the same round in which they were added to the map. If a newly added monster set does not have an ability card drawn for the current round, draw one now.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Check the initiative value for the sets of all added monsters. If their initiative value comes after the acting figure’s initiative value, their initiative order token should be in its normal position; they will act in normal initiative order. If their initiative value comes before the acting figure’s initiative value, move or insert their initiative order token after the acting figure’s token; they will act next. When multiple new monster sets would act next, order their tokens based on initiative values.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Check the initiative value for the sets of all added monsters. If their initiative value comes after the acting figure’s initiative value, their initiative order token should be in its normal position; they will act in normal initiative order. If their initiative value comes before the acting figure’s initiative value, move or insert their initiative order token after the acting figure’s token; they will act next. When multiple new monster sets would act next, order their tokens based on initiative values.
 
 When monsters are added to the map, if there are not enough standees of the right type, place as many monsters as possible, starting with elite monsters, in order of proximity to an enemy. Once the standees run out, do not place the remaining monsters. If there are not enough bases of the right color, place the remaining monsters without bases.
 
 ### Named Monsters
 
 Named monsters are a special class of monster. For some scenarios, the goal is to kill a unique variant of a monster type, which is given a name in the scenario rules. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Place named monster standees in red bases to identify them. 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Place named monster standees in red bases to identify them. 
 
 Named monsters are not considered normal or elite, so they are not affected by abilities that target those ranks. Named monsters act before elites of the same type.
 
@@ -1438,7 +1450,7 @@ Named monsters are not considered normal or elite, so they are not affected by a
 ### Bosses
 
 Bosses are a special class of monster. They use a different type of stat card and a special boss ability deck.
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Place boss standees in red bases to identify them.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Place boss standees in red bases to identify them.
 
 Bosses are not considered normal or elite, so they are not affected by abilities that target those ranks. In addition to providing stats, a boss’s stat card describes its special abilities, which are activated by its ability cards. A boss’s stats might refer to "C," which represents the number of characters in the scenario.
 
@@ -1449,7 +1461,7 @@ If the special abilities of a boss are too complex to fit on its stat card, the 
 When a monster suffers damage, place damage tokens on its stat sleeve in the section corresponding to its standee number. As soon as the total amount of damage suffered by a monster is equal to or greater than its maximum hit point value, it dies.
 
 When a monster dies, remove its standee from the map, clear all tokens from its section of the stat sleeve, and 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> place a loot token in the hex where it died, even if it was summoned or spawned, unless it was a scenario ally. 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> place a loot token in the hex where it died, even if it was summoned or spawned, unless it was a scenario ally. 
 
 No attack effects can be applied to a monster after it dies. If a monster dies while performing one of its own abilities, it cannot perform any other abilities.
 
@@ -1480,13 +1492,13 @@ After all figures on the map have taken a turn (except figures that were summone
 ## Common Scenario Rules
 
 * **Allies:** Certain figures are allies of the party. Each ally is represented either by a monster standee, in which case their stats are defined by their monster stat card, or by a numbered scenario aid token, in which case their stats are defined by the scenario rules. When multiple numbered tokens are used to represent allies, randomize them to determine their acting order. Like summons, allies are not controlled by any character, obeying automated monster rules instead. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> When allies attack, they use the ally attack modifier deck.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> When allies attack, they use the ally attack modifier deck.
 
 * **Equations:** Certain variables, such as hit point values for objectives or named monsters, are determined by equations. These equations can depend on scenario level (L), number of characters (C), or maximum hit point value of an elite monster of the relevant type (H). For example, if a named Polar Bear has (C × H) hit points, then its maximum hit point value is equal to the number of characters multiplied by the maximum hit point value of an elite Polar Bear.
 
 * **Escaping:** Certain scenarios require the party to escape. In these scenarios, certain hexes on the map are designated as escape hexes. If a character ends their turn in an escape hex, they may escape. Their figure is then removed from the map, along with their summons and tokens. Escaped characters can no longer participate in the scenario in any way.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> * **Linked Hexes:** Certain hexes on the map are linked to each other. Linked hexes are considered adjacent for the purpose of movement. There is no line-of-sight between linked hexes, but figures can find focus through linked hexes.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> * **Linked Hexes:** Certain hexes on the map are linked to each other. Linked hexes are considered adjacent for the purpose of movement. There is no line-of-sight between linked hexes, but figures can find focus through linked hexes.
 
 * **Locked Doors:** Certain doors are locked at the start of the scenario. Locked doors cannot be opened normally. They act as walls until the specified conditions which unlock them have been met. Once unlocked, they can be opened normally.
 
@@ -1513,7 +1525,7 @@ If there are any loot tokens or treasure tiles still on the map when the scenari
 Each character notes how much experience they gained during the scenario. The base experience is shown on their blue dial. If the scenario was completed, each character gains bonus experience based on the scenario level (see [p.16](#page_16)). The total is then added to the current experience total on their character sheet.
 
 Each character notes how much gold they gained during the scenario. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> The base gold is shown on their loot cards. Whether the scenario was lost or completed, this amount is multiplied by the current conversion rate, which is based on the scenario level (see [p.16](#page_16)).
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> The base gold is shown on their loot cards. Whether the scenario was lost or completed, this amount is multiplied by the current conversion rate, which is based on the scenario level (see [p.16](#page_16)).
 
 The total is then added to the current gold total on their character sheet.
 
@@ -1521,11 +1533,11 @@ The total is then added to the current gold total on their character sheet.
 
 If the scenario was lost, the party chooses between the following options: 
 
-> * <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> (A) **Return to Frosthaven:** Characters gain the resources from their loot cards, and all experience, gold, and treasure gained during the scenario is kept. The Outpost Phase occurs (see [p.59](#page_59)).
+> * <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> (A) **Return to Frosthaven:** Characters gain the resources from their loot cards, and all experience, gold, and treasure gained during the scenario is kept. The Outpost Phase occurs (see [p.59](#page_59)).
 
 The party can then attempt any available scenario, including the scenario they just lost, and they resolve a road event if necessary.
 
-> * <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> (B) **Replay the Scenario:** Characters do not gain the resources from their loot cards, but all experience, gold, and treasure gained during the scenario is kept. The Outpost Phase does not occur. 
+> * <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> (B) **Replay the Scenario:** Characters do not gain the resources from their loot cards, but all experience, gold, and treasure gained during the scenario is kept. The Outpost Phase does not occur. 
 
 The party must then attempt the scenario again, but they do not resolve a road event.
 
@@ -1539,7 +1551,7 @@ The party must then attempt the scenario again, but they do not resolve a road e
 
 If the scenario was completed, the party performs the following steps:
 
-> * <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> (1) **Looted Resources:** Each character gains any resources from their loot cards. Resources are tallied on their character sheet.
+> * <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> (1) **Looted Resources:** Each character gains any resources from their loot cards. Resources are tallied on their character sheet.
 
 * (2) **Battle Goals:** Each character gains any checkmarks from achieving their battle goal. Checkmarks are tracked on their character sheet. For every set of three checkmarks, the character gains a perk mark (see [p.63](#page_63)).
 
@@ -1550,20 +1562,20 @@ If the scenario was completed, the party performs the following steps:
 * (5) **Scenario Conclusion:** Read the conclusion of the scenario, which is found in the section indicated by the specific goal for the scenario.
 
 * (6) **Scenario Rewards:** Gain any scenario rewards listed after the conclusion. However, the rewards from each scenario can only be gained once per campaign, so skip this step if replaying a completed scenario. These rewards can include scenario unlocks, experience, gold, checkmarks, items, and more. If the party is required to lose something, they cannot lose more than they have. If an item is gained, find one copy of that item in the unavailable supply and add it to any character’s pool of items. If an item blueprint is gained, find all copies of that item in the unavailable supply and add them to the available supply. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> When a scenario is unlocked, retrieve its sticker from the corresponding window of the scenario flowchart and affix it to the map board at the specified coordinates, matching up the artwork. 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> When a scenario is unlocked, retrieve its sticker from the corresponding window of the scenario flowchart and affix it to the map board at the specified coordinates, matching up the artwork. 
 
 Scenario numbers shown in circles within the story text of the conclusion are references to help clarify the story text.
 
-> * <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> (7) **Inspiration:** Gain inspiration equal to 4 minus the number of characters (see [p.54](#page_54)). Inspiration is tallied on the campaign sheet.
+> * <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> (7) **Inspiration:** Gain inspiration equal to 4 minus the number of characters (see [p.54](#page_54)). Inspiration is tallied on the campaign sheet.
 
 * (8) **Updated Map:** Mark the scenario as completed on the map board. 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> Completed scenarios can still be replayed during the same campaign. 
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> Completed scenarios can still be replayed during the same campaign. 
 
 However, the scenario rewards and any numbered treasures can only be gained once.
 
 Even if a character is exhausted, as long as the scenario was completed, they may still achieve their battle goal and masteries, gain scenario rewards, and keep all of the experience, gold, and loot they gained during the scenario.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> After completing a scenario, the party normally returns to Frosthaven for an Outpost Phase (see [p.59](#page_59)).
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> After completing a scenario, the party normally returns to Frosthaven for an Outpost Phase (see [p.59](#page_59)).
 >
 > If another scenario is linked <picture><img alt="Linked Scenario Icon" title="Linked Scenario Icon" src="icons/general/fh-linked-bw-icon.png" width="14"></picture> to the completed scenario, they may skip the Outpost Phase and play it. If another scenario is force-linked <picture><img alt="Force-Linked Scenario Icon" title="Force-Linked Scenario Icon" src="icons/general/fh-linked-forced-color-icon.png" width="14"></picture> to the completed scenario, they must skip the Outpost Phase and play it. If this was not the first time the scenario was completed during the same campaign, all scenario links are ignored and the party must return to Frosthaven for an Outpost Phase.
 
@@ -1581,7 +1593,7 @@ The second part of this rulebook covers how to interact with the outpost of Fros
 
 If you are new to the Gloomhaven system, play scenario 0 now. This is a short, low-stakes scenario with minimal rewards, and it is meant to familiarize you with your characters and give you a chance to practice the rules you’ve just learned. If you are already familiar with the Gloomhaven system, you can skip scenario 0 and go directly to scenario 1, the first official scenario of the campaign. Once you have completed scenario 1, you are ready to read the rest of this rulebook and learn about the Outpost Phase, which occurs between scenarios. There is no Outpost Phase between scenarios 0 and 1.
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> The remainder of this rulebook does not contain any blue text. From this point onward, all rules should be considered new to Frosthaven.
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> The remainder of this rulebook does not contain any blue text. From this point onward, all rules should be considered new to Frosthaven.
 
 ---
 
@@ -2279,7 +2291,7 @@ A random setup card contains the following:
 * **1** element board with **1** round marker and **6** element tokens
 * **18** small tuck boxes containing character miniatures
 
-> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-bw-icon.png" width="14"></picture> **Hidden Content?** Envelope contents are not included in this inventory. For a complete list of these contents, visit [cephalofair.com/frosthaven](https://cephalofair.com/frosthaven)
+> <picture><img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon"></picture> **Hidden Content?** Envelope contents are not included in this inventory. For a complete list of these contents, visit [cephalofair.com/frosthaven](https://cephalofair.com/frosthaven)
 
 ---
 
