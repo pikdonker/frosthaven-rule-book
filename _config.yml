@@ -23,10 +23,16 @@ url: "https://pikdonker.github.io" # the base hostname & protocol for your site,
 github_username:  pikdonker
 
 # Build settings
-markdown: GFM
+markdown: kramdown
+html_to_native: true
+parse_block_html: true
 theme: minima
 plugins:
   # - jekyll-feed
+
+kramdown:
+  parse_block_html: true
+  parse_span_html: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

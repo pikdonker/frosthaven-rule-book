@@ -14,18 +14,25 @@ In addition to the scenario book, the section book will also be important for pl
 
 ## Scenario Entries [p.10](./readme.md#page_10)
 
-- (C) Any requirements for playing the scenario, including necessary campaign stickers or special travel icons that require the corresponding building upgrade.
-- (D) The complexity of the scenario, on a scale of 1–3. Higher complexity scenarios will generally take longer and have more special rules.
-- (E) The geographical feature where the scenario is located (if any).
-- (F) The designers and writers of the scenario (side scenarios only).
-- (G) The goal of the scenario. When this is achieved, the scenario is completed, and the specified section in the section book should be read at the end of the current round for the conclusion and rewards.
-- (K) Section links, which will describe when you should reference the section book for additional information (see <a href="./readme.md#page_7">p.7</a>). Important elements such as additional room setups can be found in these sections. Section links are read immediately when the condition described is fulfilled, even if it interrupts an ability.
-- (L) The configuration of map tiles needed for the entire scenario, with each map tile labeled. Most of the time, this will be more than the initial room. Do not reference the setup for any additional rooms, which will be detailed in the section book, until instructed. However, the map tiles for the entire scenario can be placed at once.
-- (M) The composition of the loot deck (see <a href="./readme.md#page_16">p.16</a>).
+1. Any requirements for playing the scenario, including necessary campaign stickers or special travel icons that require the corresponding building upgrade.
+1. The complexity of the scenario, on a scale of 1–3. Higher complexity scenarios will generally take longer and have more special rules.
+1. The geographical feature where the scenario is located (if any).
+1. The designers and writers of the scenario (side scenarios only).
+1. The goal of the scenario. When this is achieved, the scenario is completed, and the specified section in the section book should be read at the end of the current round for the conclusion and rewards.
+{: type="A"}
+{: start="3"}
+
+1. Section links, which will describe when you should reference the section book for additional information (see <a href="./readme.md#page_7">p.7</a>). Important elements such as additional room setups can be found in these sections. Section links are read immediately when the condition described is fulfilled, even if it interrupts an ability.
+1. The configuration of map tiles needed for the entire scenario, with each map tile labeled. Most of the time, this will be more than the initial room. Do not reference the setup for any additional rooms, which will be detailed in the section book, until instructed. However, the map tiles for the entire scenario can be placed at once.
+1. The composition of the loot deck (see <a href="./readme.md#page_16">p.16</a>).
+{: type="A"}
+{: start="11"}
 
 ## Scenario Entries [p.11](./readme.md#page_11)
 
-- (C) **Loot Tokens**: These are objects on the map that characters can interact with to gain rewards from the loot deck (see <a href="./readme.md#page_32">p.32</a>).
+1. **Loot Tokens**: These are objects on the map that characters can interact with to gain rewards from the loot deck (see <a href="./readme.md#page_32">p.32</a>).
+{: type="A"}
+{: start="3"}
 
 ### Road Events [p.12](./readme.md#page_12)
 
@@ -279,7 +286,8 @@ When an item with multiple uses is recovered, even before it has been fully spen
 
 If any part of an action is performed, certain abilities and effects of that action cannot be skipped. In such cases, the ability or effect is highlighted in a box with an "**!**" in front of it. These include:
 
-- (A) **Negative Abilities:** The indicated ability creates a negative effect for the character or their allies.
+1. **Negative Abilities:** The indicated ability creates a negative effect for the character or their allies.
+{: type="A"}
 
 ### Lost Actions [p.38](./readme.md#page_38)
 
@@ -295,13 +303,16 @@ When a character would suffer any amount of damage (after ward or brittle is app
 
 A monster stat card can have the following:
 
-- (I) **Condition Immunities:** These are conditions that a monster of this type is prevented from gaining due to immunity.
+1. **Condition Immunities:** These are conditions that a monster of this type is prevented from gaining due to immunity.
+{: type="A"}
+{: start="9"}
 
 ### Monster Ability Cards [p.40](./readme.md#page_40)
 
 A monster ability card can have the following:
 
-- (A) **Card Name:** A thematic name for the card.
+1. **Card Name:** A thematic name for the card.
+{: type="A"}
 
 Appendix B provides a concise, illustrated guide for how monsters take their turns (see [p.74](./readme.md#page_74)).
 
@@ -357,11 +368,13 @@ Each character notes how much gold they gained during the scenario. The base gol
 
 If the scenario was lost, the party chooses between the following options: 
 
-- (A) **Return to Frosthaven:** Characters gain the resources from their loot cards, and all experience, gold, and treasure gained during the scenario is kept. The Outpost Phase occurs (see [p.59](./readme.md#page_59)).
+1. **Return to Frosthaven:** Characters gain the resources from their loot cards, and all experience, gold, and treasure gained during the scenario is kept. The Outpost Phase occurs (see [p.59](#page_59)).
+    
+    The party can then attempt any available scenario, including the scenario they just lost, and they resolve a road event if necessary.
+1. **Replay the Scenario:** Characters do not gain the resources from their loot cards, but all experience, gold, and treasure gained during the scenario is kept. The Outpost Phase does not occur. 
 
-The party can then attempt any available scenario, including the scenario they just lost, and they resolve a road event if necessary.
-
-- (B) **Replay the Scenario:** Characters do not gain the resources from their loot cards, but all experience, gold, and treasure gained during the scenario is kept. The Outpost Phase does not occur. 
+    The party must then attempt the scenario again, but they do not resolve a road event.
+{: type="A"}
 
 ## Completed Scenario [p.48](./readme.md#page_48)
 
