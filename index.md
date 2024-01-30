@@ -13,9 +13,9 @@ This is a ligthweight, searchable, version of the Frosthaven Rule Book, inspired
 
 ### Stickers added:
 
-- Sticker 4
-- Sticker 10
-- Sticker 15
+- [Sticker 4](#sticker_4)
+- [Sticker 10](#sticker_10)
+- [Sticker 15](#sticker_15)
 
 I've made a separate document that only lists the parts of the Rule Book that are marked as [new in Frosthaven.](./new-to-frosthaven.md)
 
@@ -420,7 +420,7 @@ The party will perform the following steps when resolving an event card:
 Each event also has a reference number A. Throughout the campaign, you will be instructed to add or remove events from the various event decks. These events are always referenced by this number so that they can be easily found. When an event is added to or removed from an event deck, that deck must then be shuffled. Certain events also have an additional icon (<img alt="Unfettered Icon" title="Unfettered Icon" src="icons/general/fh-unfettered-icon.png" class="fh-icon">/<img alt="Algox Icon" title="Algox Icon" src="icons/general/fh-algox-icon.png" class="fh-icon">/<img alt="Lurker Icon" title="Lurker Icon" src="icons/general/fh-lurker-icon.png" class="fh-icon">) to make it easier to identify a large number of cards at once. 
 
 <details>
-<summary><h2 id="sticker-4" style="display: inline;">Sticker 4</h2></summary>
+<summary><h2 id="sticker_4" style="display: inline;">Sticker 4</h2></summary>
 
 ### Boat Events
 
@@ -1979,7 +1979,7 @@ When the party gains or loses gold or resources due to these effects, they can b
 Because the Building Operations step occurs immediately after the Outpost Event step, any building that was wrecked during the outpost event will have its wrecked effect resolved once before the party even has an opportunity to rebuild it.
 
 <details>
-<summary><h2 id="sticker-10" style="display: inline;">Sticker 10</h2></summary>
+<summary><h2 id="sticker_10" style="display: inline;">Sticker 10</h2></summary>
 
 ### Garden
 
@@ -2165,7 +2165,8 @@ Building and upgrading always has a prosperity requirement <img alt="Prosperity 
 When a build or upgrade causes the prosperity level to increase, any character whose level is lower than half the new prosperity level (rounded up) may immediately level up without meeting the experience requirement, even multiple times, as long as their level does not exceed half the new prosperity level (rounded up). After they level up, set their experience total to match the experience requirement of their new level.
 
 <details>
-<summary><h2 id="sticker-15" style="display: inline;">Sticker 15</h2></summary>
+<summary><h2 id="sticker_15" style="display: inline;">Sticker 15</h2></summary>
+
 
 ### Carpenter
 

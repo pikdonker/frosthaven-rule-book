@@ -139,6 +139,29 @@ a {
   }
 }
 
+summary h2 {
+  cursor: pointer;
+  
+  &:visited {
+    color: darken($brand-color, 15%);
+  }
+
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+  }
+}
+
+details {
+  color: $grey-color-dark;
+  background-color: $grey-color-light;
+
+  p, h3 {
+    padding: $spacing-unit / 2;
+    margin-bottom: 0px;
+  }
+}
+
 
 /**
  * Blockquotes
