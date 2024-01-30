@@ -257,6 +257,7 @@ pre {
  * Tables
  */
 table {
+  margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
   color: lighten($text-color, 18%);
@@ -283,5 +284,4 @@ table {
 .table-responsive {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
-  margin-bottom: $spacing-unit;
 }
