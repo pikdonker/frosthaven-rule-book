@@ -264,6 +264,7 @@ There are a few more things your character will need before they are ready:
 {: type="A"}
 {: start="4"}
 
+<div class="table-responsive">
 | Class Name | Suggested Purchase |
 |---|---|
 |Banner Spear|Winged Shoes 124, Heater Shield 128|
@@ -272,6 +273,8 @@ There are a few more things your character will need before they are ready:
 |Deathwalker|Boots of Speed 125|
 |Blinkblade|Leather Armor 123, Poison Dagger 127|
 |Geminate|Amulet of Life 120, Leather Armor 123|
+
+</div>
 
 # Learning the Rules
 
@@ -444,10 +447,12 @@ If the scenario layout depicts an overlay tile covering the border hex of a map 
 
 > <img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon new-to-fh-icon"> A hex with no overlay tiles (except corridors and pressure plates) is considered **featureless**. A hex with no figure is considered **unoccupied**. A hex that is both featureless and unoccupied is considered **empty**. Tokens are not overlay tiles.
 
+<div class="table-responsive">
 |  | A | B | C |
 |--|---|---|---|
 |**Note:** Many overlay tiles can function as different types of overlays. For example, a snow rock tile can be used as A an obstacle, B an objective, or C a wall, depending on the border shown in the scenario layout and banner color shown in the scenario key. The type of overlay is determined by its color and icon, not necessarily the illustration on the tile or name in the scenario book.| <img alt="Obstacle Icon" title="Obstacle Icon" src="icons/overlay-tiles/fh-overlay-tile-obstacle-color-icon.png" width="32"> | <img alt="Objective Icon" title="Objective Icon" src="icons/overlay-tiles/fh-overlay-tile-objective-color-icon.png" width="32"> | <img alt="Wall Icon" title="Wall Icon" src="icons/overlay-tiles/fh-overlay-tile-wall-color-icon.png" width="32"> |
 
+</div>
 ---
 
 <p align="right"><strong><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_14">14</a></strong></p>
@@ -549,6 +554,7 @@ At recommended difficulty, the scenario level is equal to the average level of t
 
 This calculation determines the recommended difficulty, but at the start of any scenario, the scenario level can be set to any number from 0–7. Decreasing the scenario level might be helpful if your party is struggling, while increasing the scenario level can help the game remain challenging as your party grows stronger. 
 
+<div class="table-responsive">
 | Scenario Level  |0|1|2| 3| 4| 5| 6| 7|  |
 |:-----------------:|:-:|:-:|:-:|:--:|:--:|:--:|:--:|:--:|:--:|
 |Monster Level    |0|1|2| 3| 4| 5| 6| 7|  |
@@ -557,6 +563,7 @@ This calculation determines the recommended difficulty, but at the start of any 
 |Hazardous Terrain|1|2|2| 2| 3| 3| 3| 4|<img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon new-to-fh-icon">|
 |Bonus Experience |4|6|8|10|12|14|16|18|  |
 
+</div>
 ---
 
 <p align="right"><strong><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_17">17</a></strong></p>
@@ -605,6 +612,7 @@ Alternatively, if a character has at least two cards in their discard pile, they
 
 Characters should not show each other the cards in their hand or give specific information about any **numeric value or title** on these cards. They are, however, allowed to discuss strategy and make general statements about their plans for the round.
 
+<div class="table-responsive">
 | Communication Example |
 |--|
 |✅ "I’m attacking this Algox Archer near the end of the round."|
@@ -616,6 +624,7 @@ Characters should not show each other the cards in their hand or give specific i
 |❌ "I should be dealing 4 damage to the Algox Guard."|
 |❌ "I need you there for Unbreakable Wall."|
 
+</div>
 ---
 
 <p align="right"><strong><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_19">19</a></strong></p>
@@ -767,9 +776,12 @@ Some abilities or effects can only occur if something else happens first. These 
 
 Some actions have an elemental affinity associated with them (fire, ice, air, earth, light, or dark). If an elemental infusion is depicted on an action, when the acting figure performs any part of that action, they must infuse that element **at the end of their turn**.To infuse an element, move its token to the strong column on the element board. A figure cannot infuse an element this way unless they perform at least one of that action’s abilities.
 
+<div class="table-responsive">
 |<img alt="Fire Icon" title="Fire Icon" src="icons/elements/fh-fire-color-icon.png" width="42"> |<img alt="Ice Icon" title="Ice Icon" src="icons/elements/fh-ice-color-icon.png" width="42"> |<img alt="Air Icon" title="Air Icon" src="icons/elements/fh-air-color-icon.png" width="42"> |<img alt="Earth Icon" title="Earth Icon" src="icons/elements/fh-earth-color-icon.png" width="42"> |<img alt="Light Icon" title="Light Icon" src="icons/elements/fh-light-color-icon.png" width="42"> |<img alt="Dark Icon" title="Dark Icon" src="icons/elements/fh-dark-color-icon.png" width="42"> |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |Fire|Ice|Air|Earth|Light|Dark|
+
+</div>
 
 At the end of every round, all infused elements wane, moving one column to the left on the element board, from strong to waning or from waning to inert.
 
@@ -1179,10 +1191,12 @@ A character can own more items than they bring into a scenario, but they cannot 
 
 ##### Item Types
 
+<div class="table-responsive">
 |<img alt="Head Item Icon" title="Head Item Icon" src="icons/general/fh-equip-slot-head-bw-icon.png" width="42"> |<img alt="Body Item Icon" title="Body Item Icon" src="icons/general/fh-equip-slot-body-bw-icon.png" width="42"> |<img alt="Legs Item Icon" title="Legs Item Icon" src="icons/general/fh-equip-slot-legs-bw-icon.png" width="42"> |<img alt="Single Hand Item Icon" title="Single Hand Item Icon" src="icons/general/fh-equip-slot-single-hand-bw-icon.png" width="42"> |<img alt="Dual Hand Item Icon" title="Dual Hand Item Icon" src="icons/general/fh-equip-slot-dual-hand-bw-icon.png" width="42"> |<img alt="Small Item Icon" title="Small Item Icon" src="icons/general/fh-equip-slot-item-bw-icon.png" width="42"> |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |Head|Body|Feet|One Hand|Two Hands|Small|
 
+</div>
 ---
 
 <p align="right"><strong><a href="#page_1">🔝</a>&nbsp; &nbsp;<a name="page_36">36</a></strong></p>
@@ -2473,6 +2487,7 @@ Each type of enhancement has a base cost, which is determined by the following c
 
 Some enhancements do not fall neatly into the categories on the cost chart. When determining their base cost, treat damage traps as "<img alt="Attack Icon" title="Attack Icon" src="icons/general/fh-attack-bw-icon.png" class="fh-icon"> **+1**" enhancements (50 gold), treat healing traps as "<img alt="Heal Icon" title="Heal Icon" src="icons/general/fh-heal-bw-icon.png" class="fh-icon"> **+1**" enhancements (30 gold), and treat the movement of tokens and tiles as "<img alt="Move Icon" title="Move Icon" src="icons/general/fh-move-bw-icon.png" class="fh-icon"> **+1**" enhancements (30 gold).
 
+<div class="table-responsive">
 |Enhancement|Base Cost|
 |:-:|:-:|
 |**Move +1**|30 Gold| 
@@ -2503,6 +2518,8 @@ Some enhancements do not fall neatly into the categories on the cost chart. When
 |**Wild Element**|150 Gold| 
 |**Jump**|60 Gold| 
 |**Area-of-Effect Hex**|200 Gold divided by the number of existing hexes (rounded up)|
+
+</div>
 
 ---
 
@@ -3105,6 +3122,7 @@ To Joseph Childres — the most creative person I’ve ever known.
 
 ## Scenario Level ([p.16](#page_16))
 
+<div class="table-responsive">
 | Scenario Level  |0|1|2| 3| 4| 5| 6| 7|
 |:-----------------:|:-:|:-:|:-:|:--:|:--:|:--:|:--:|:--:|
 |Monster Level    |0|1|2| 3| 4| 5| 6| 7|
@@ -3113,5 +3131,6 @@ To Joseph Childres — the most creative person I’ve ever known.
 |Hazardous Terrain|1|2|2| 2| 3| 3| 3| 4|
 |Bonus Experience |4|6|8|10|12|14|16|18|
 
+</div>
 * Recommended Scenario Level:
     Average Character Level ÷ 2 (rounded up).

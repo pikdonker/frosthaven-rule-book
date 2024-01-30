@@ -109,7 +109,7 @@ ol li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+  font-weight: $bold-font-weight;
 }
 
 
@@ -257,7 +257,6 @@ pre {
  * Tables
  */
 table {
-  margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
   color: lighten($text-color, 18%);
@@ -279,4 +278,10 @@ table {
   td {
     border: 1px solid $grey-color-light;
   }
+}
+
+.table-responsive {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin-bottom: $spacing-unit;
 }
