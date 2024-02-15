@@ -13,7 +13,11 @@ This is a ligthweight, searchable, version of the Frosthaven Rule Book, inspired
 
 ### Stickers added:
 
+- [Sticker 1](#sticker_1)
 - [Sticker 4](#sticker_4)
+- [Sticker 5](#sticker_5)
+- [Sticker 8](#sticker_8)
+- [Sticker 9](#sticker_9)
 - [Sticker 10](#sticker_10)
 - [Sticker 15](#sticker_15)
 
@@ -334,7 +338,17 @@ Whenever a scenario is played, the party will prepare for the scenario by perfor
 1. Retrieve and shuffle all necessary attack modifier decks (character, monster, and ally decks) and retrieve all additional attack modifier cards (<img alt="Bless icon" title="Bless icon" src="icons/conditions/fh-bless-color-icon.png" class="fh-icon">, <img alt="Curse Icon" title="Curse Icon" src="icons/conditions/fh-curse-color-icon.png" class="fh-icon">, and <img alt="Star Icon" title="Star Icon" src="icons/general/fh-star-icon.png" class="fh-icon"> cards).
 1. Read the scenario goals, introduction, and special rules in the scenario entry.
 1. > <img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon new-to-fh-icon"> Deal three battle goals to each character. Decide which one to keep for each character and discard the others (see [p.17](#page_17)).
-1. Sticker 1
+1. <details><summary><h2 id="sticker_1" style="display: inline;">Sticker 1</h2></summary>
+    The party collectively draws and keeps a number of challenge cards based on the level of the Town Hall. The party can keep fewer cards than the limit. Return any cards that are drawn but not kept to the bottom of the challenge deck.
+
+    | Town Hall Level | Challenge Cards |
+    |--|---|
+    |Level 1|Draw 1, Keep 1|
+    |Level 2|Draw 2, Keep 1|
+    |Level 3|Draw 3, Keep 2|
+
+    </details>
+
 1. > <img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon new-to-fh-icon"> Place the token tray nearby.
 1. > <img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon new-to-fh-icon"> Build the loot deck as depicted by the loot table in the scenario entry (see [p.16](#page_16)).
 1. Sticker 2
@@ -585,7 +599,26 @@ A battle goal card has the following:
 1. Number of checkmarks gained after achieving the goal while also completing the scenario. 
 {: type="A"}
 
-## Sticker 5
+<details>
+<summary><h2 id="sticker_5" style="display: inline;">Sticker 5</h2></summary>
+## Challenges
+
+Challenges provide an additional challenge for the party as a whole. At the start of every scenario, the party may collectively draw and keep a number of cards from the challenge deck, depending on the level of the Town Hall. The party may choose to keep fewer cards than the limit, to a minimum of zero. Any cards not kept are returned to the bottom of the challenge deck.
+
+| Town Hall Level | Challenge Cards |
+|--|---|
+|Level 1|Draw 1, Keep 1|
+|Level 2|Draw 2, Keep 1|
+|Level 3|Draw 3, Keep 2|
+
+Each card kept will apply a modifier to some aspect of the scenario. If the scenario is completed with the applied modifier, the town guard will gain one checkmark, tracked on the campaign sheet. For every set of three checkmarks, the town guard will gain a perk mark (see [p.55](#page_55)), up to a maximum of 15 perk marks for 45 checkmarks.
+
+A challenge card has the following:
+
+1. Thematic Title
+1. Details for how the modifier affects the scenario.
+{: type="A"}
+</details>
 
 ---
 
@@ -1587,9 +1620,10 @@ If the scenario was completed, the party performs the following steps:
 1. > <img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon new-to-fh-icon"> **Looted Resources:** Each character gains any resources from their loot cards. Resources are tallied on their character sheet.
 1. **Battle Goals:** Each character gains any checkmarks from achieving their battle goal. Checkmarks are tracked on their character sheet. For every set of three checkmarks, the character gains a perk mark (see [p.63](#page_63)).
 1. **Masteries:** Each character gains one perk mark for any new mastery they achieved during the scenario. Even if they became exhausted during the scenario, they can still achieve a mastery if its requirements were met at the time they became exhausted. Each mastery can only be achieved once per character.
+1. <details><summary><h2 id="sticker_8" style="display: inline;">Sticker 8</h2></summary>
+    **Challenges:** Each character gains 2 experience for each challenge active during the scenario, and the town guard gains one checkmark fo reach challenge active during the scenario. All active challenges are then placed in the completed challenge deck. If the scenario was lost instead, these rewards are not gained and all active challenges are returned to the bottom of the challenge deck.
 
-## Sticker 8
-
+    </details>
 1. **Scenario Conclusion:** Read the conclusion of the scenario, which is found in the section indicated by the specific goal for the scenario.
 1. **Scenario Rewards:** Gain any scenario rewards listed after the conclusion. However, the rewards from each scenario can only be gained once per campaign, so skip this step if replaying a completed scenario. These rewards can include scenario unlocks, experience, gold, checkmarks, items, and more. If the party is required to lose something, they cannot lose more than they have. If an item is gained, find one copy of that item in the unavailable supply and add it to any character’s pool of items. If an item blueprint is gained, find all copies of that item in the unavailable supply and add them to the available supply. 
 > <img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon new-to-fh-icon"> When a scenario is unlocked, retrieve its sticker from the corresponding window of the scenario flowchart and affix it to the map board at the specified coordinates, matching up the artwork. 
@@ -1601,7 +1635,6 @@ If the scenario was completed, the party performs the following steps:
 > <img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon new-to-fh-icon"> Completed scenarios can still be replayed during the same campaign. 
 
     However, the scenario rewards and any numbered treasures can only be gained once.
-{: start="5"}
 
 Even if a character is exhausted, as long as the scenario was completed, they may still achieve their battle goal and masteries, gain scenario rewards, and keep all of the experience, gold, and loot they gained during the scenario.
 
@@ -1755,12 +1788,12 @@ The campaign sheet has the following:
 ---
 
 1. **Retirement Table:** This serves as an ongoing record of retired characters. When a character retires (see [p.64](#page_64)), record their information in this table. The number of characters a player has retired during the campaign determines how many bonus perk marks are gained by newly created characters (see [p.63](#page_63)).
-1. **Town Guard Perks:** These relate to a mechanism that is introduced during the campaign. This can be ignored until building 90 is built.
+1. <details><summary><h2 id="sticker_9" style="display: inline;">Sticker 9</h2></summary>
+    **Town Guard Perks:** When the party completes a scenario, the town guard gains one checkmark for every active challenge. For every set of three checkmarks, the town guard gains one perk mark. When the town guard gains a perk mark, mark an available box next to a town guard perk, then adjust the town guard deck accordingly and read the indicated section from the section book.
+
+    </details>
 {: type="A"}
 {: start="9"}
-
-
-### Sticker 9 (Cover "Town Guard Perks" Text Above) 
 
 ---
 
