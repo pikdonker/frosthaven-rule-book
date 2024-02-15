@@ -2,6 +2,8 @@ name: frosthaven-rule-book
 services:
   ruby:
     type: ruby
+    ports:
+      - 4000:4000
 tooling:
   gem:
     service: ruby
@@ -9,6 +11,15 @@ tooling:
     service: ruby
   bundle:
     service: ruby
+  build:
+    service: ruby
+    cmd:
+      - gem install bundler:2.4.12
+      - bundle install
+  serve:
+    service: ruby
+    cmd:
+      - jekyll serve -H 0.0.0.0
 proxy:
   ruby:
-    - ruby.lndo.site:4000
+    - ruby.lndo.site
