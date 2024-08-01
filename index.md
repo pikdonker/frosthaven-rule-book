@@ -7,7 +7,7 @@
 
 # Frosthaven Rule Book
 
-This is a lightweight, searchable, version of the Frosthaven Rule Book, inspired by [https://github.com/m-ender/gloomhaven-rules](https://github.com/m-ender/gloomhaven-rules). 
+This is a ligthweight, searchable, version of the Frosthaven Rule Book, inspired by [https://github.com/m-ender/gloomhaven-rules](https://github.com/m-ender/gloomhaven-rules). 
 
 **Since I do not want to spoil myself this will not contain any of the stickers until we unlock them.**
 
