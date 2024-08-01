@@ -6,7 +6,11 @@ This is a lightweight, searchable, version of the Frosthaven Rule Book, inspired
 
 ### Stickers added:
 
+- Sticker 1
 - Sticker 4
+- Sticker 5
+- Sticker 8
+- Sticker 9
 - Sticker 10
 - Sticker 15
 
