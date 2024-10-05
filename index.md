@@ -19,6 +19,8 @@ This is a lightweight, searchable, version of the Frosthaven Rule Book, inspired
 - [Sticker 8](#sticker_8)
 - [Sticker 9](#sticker_9)
 - [Sticker 10](#sticker_10)
+- [Sticker 11](#sticker_11)
+- [Sticker 13](#sticker_13)
 - [Sticker 15](#sticker_15)
 
 I've made a separate document that only lists the parts of the Rule Book that are marked as [new in Frosthaven.](./new-to-frosthaven.md)
@@ -2033,8 +2035,11 @@ After the Building Operations step, characters may perform downtime activities i
 * **Craft Items** [p.65](#page_65)
 * **Brew Potions** [p.66](#page_66)
 * **Sell Items** [p.67](#page_67)
+<details style="margin-top: -15px;">
+<summary><h5 id="sticker_11" style="display: inline;">Sticker 11</h5></summary>
 
-## Sticker 11
+* **Purchase Items** [p.67](#page_67)
+</details>
 ## Sticker 12
 
 ### Level Up
@@ -2175,11 +2180,16 @@ Once the Alchemist has been upgraded to level 3, more powerful potions can be br
 
 Items from a character’s pool can be sold during the Downtime step. When a character gains another copy of an item they already own, they must sell it immediately. When a character sells a purchasable item, they gain gold equal to half its gold cost (rounded down). When a character sells a craftable item, they gain 2 gold for each resource or item required to craft it. Return items to the corresponding available supply when sold.
 
+<details>
+<summary><h3 id="sticker_13" style="display: inline;">Sticker 13 (Cover "Purchase Items" Text Above)</h3>
+Items cannot be purchased freely until building 37 is built. Until that happens, the items in the available purchasable supply can only be purchased with starting gold upon the creation of a new character or when a game effect specifically allows a character to do so.
+</summary>
+
 ### Purchase Items
 
-Items cannot be purchased freely until building 37 is built. Until that happens, the items in the available purchasable supply can only be purchased with starting gold upon the creation of a new character or when a game effect specifically allows a character to do so.
+Items can be purchased by interacting with the Trading Stall building. Characters purchase an item by spending gold from their personal supply equal to the item's gold cost. The purchasing character gains one copy of the purchased item. Any item in the available purchasasable supply can be purchased. However, during each Outpost Phase, collectively the party can only purchase a number of items equal to the Trading Stall's level. Items purchased with the starting gold upon the creation of a new character do not count toward this limit.
+</details>
 
-## Sticker 13 (Cover "Purchase Items" Text Above)
 
 ## Sticker 14
 
