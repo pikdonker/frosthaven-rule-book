@@ -311,7 +311,7 @@ Lastly, you will find that some sections of the rulebook have been left blank. Y
 
 # Scenario Phase
 
-Scenarios are self-contained missions designed to be played in a single sitting. The campaign of Frosthavenspans numerous scenarios, and most of your time in the campaign will be spent playing through these scenarios. The scenario book contains 138 scenarios, but you will not play through them all, and they will not be played in order. The story contains many branching paths and detours.
+Scenarios are self-contained missions designed to be played in a single sitting. The campaign of Frosthaven spans numerous scenarios, and most of your time in the campaign will be spent playing through these scenarios. The scenario book contains 138 scenarios, but you will not play through them all, and they will not be played in order. The story contains many branching paths and detours.
 
 Each Scenario Phase consists of three distinct steps:
 
@@ -1220,7 +1220,7 @@ An item card has the following:
 
 All items a character brings into a scenario are placed below their character mat and can be used as specified by the items themselves.
 
-A character can use any item as long as it is in their possession; however, characters can only bring a limited number of items into a scenario. Each character can bring one <img alt="Head Item Icon" title="Head Item Icon" src="icons/general/fh-equip-slot-head-bw-icon.png" class="fh-icon"> item, one <img alt="Body Item Icon" title="Body Item Icon" src="icons/general/fh-equip-slot-body-bw-icon.png" class="fh-icon"> item, one <img alt="Legs Item Icon" title="Legs Item Icon" src="icons/general/fh-equip-slot-legs-bw-icon.png" class="fh-icon"> item, up to two <img alt="Single Hand Item Icon" title="Single Hand Item Icon" src="icons/general/fh-equip-slot-single-hand-bw-icon.png" class="fh-icon"> items -or* one <img alt="Dual Hand Item Icon" title="Dual Hand Item Icon" src="icons/general/fh-equip-slot-dual-hand-bw-icon.png" class="fh-icon"> item, and a number of <img alt="Small Item Icon" title="Small Item Icon" src="icons/general/fh-equip-slot-item-bw-icon.png" class="fh-icon"> items up to half their level (rounded up).
+A character can use any item as long as it is in their possession; however, characters can only bring a limited number of items into a scenario. Each character can bring one <img alt="Head Item Icon" title="Head Item Icon" src="icons/general/fh-equip-slot-head-bw-icon.png" class="fh-icon"> item, one <img alt="Body Item Icon" title="Body Item Icon" src="icons/general/fh-equip-slot-body-bw-icon.png" class="fh-icon"> item, one <img alt="Legs Item Icon" title="Legs Item Icon" src="icons/general/fh-equip-slot-legs-bw-icon.png" class="fh-icon"> item, up to two <img alt="Single Hand Item Icon" title="Single Hand Item Icon" src="icons/general/fh-equip-slot-single-hand-bw-icon.png" class="fh-icon"> items -or- one <img alt="Dual Hand Item Icon" title="Dual Hand Item Icon" src="icons/general/fh-equip-slot-dual-hand-bw-icon.png" class="fh-icon"> item, and a number of <img alt="Small Item Icon" title="Small Item Icon" src="icons/general/fh-equip-slot-item-bw-icon.png" class="fh-icon"> items up to half their level (rounded up).
 
 A character can own more items than they bring into a scenario, but they cannot own more than one copy of any single item. All items that a character owns are kept in their tuck box. Different characters cannot own the same copy of the same item. **Items cannot be transferred or traded between characters.**
 
@@ -1621,7 +1621,7 @@ If the scenario was completed, the party performs the following steps:
 
 1. > <img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon new-to-fh-icon"> **Looted Resources:** Each character gains any resources from their loot cards. Resources are tallied on their character sheet.
 1. **Battle Goals:** Each character gains any checkmarks from achieving their battle goal. Checkmarks are tracked on their character sheet. For every set of three checkmarks, the character gains a perk mark (see [p.63](#page_63)).
-1. **Masteries:** Each character gains one perk mark for any new mastery they achieved during the scenario. Even if they became exhausted during the scenario, they can still achieve a mastery if its requirements were met at the time they became exhausted. Each mastery can only be achieved once per character.
+1. > <img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon new-to-fh-icon"> **Masteries:** Each character gains one perk mark for any new mastery they achieved during the scenario. Even if they became exhausted during the scenario, they can still achieve a mastery if its requirements were met at the time they became exhausted. Each mastery can only be achieved once per character.
 1. <details><summary><h2 id="sticker_8" style="display: inline;">Sticker 8</h2></summary>
     **Challenges:** Each character gains 2 experience for each challenge active during the scenario, and the town guard gains one checkmark fo reach challenge active during the scenario. All active challenges are then placed in the completed challenge deck. If the scenario was lost instead, these rewards are not gained and all active challenges are returned to the bottom of the challenge deck.
 
@@ -1767,7 +1767,7 @@ A character sheet has the following:
 
 ---
 
-## Campagain Sheet
+## Campaign Sheet
 
 The party has a single campaign sheet that tracks a variety of information related to the campaign. The pad contains multiple sheets, in case they are needed for any reason, but only one campaign can be in progress at any given time.
 
@@ -1846,10 +1846,10 @@ At the start of the campaign, the town guard deck is a standard 20-card deck wit
 * six <img alt="0 Icon" title="0 Icon" src="icons/attack-modifiers/fh-plus-0-icon.png" class="fh-icon"> cards
 * five <img alt="Minus 10 Icon" title="Minus 10 Icon" src="icons/attack-modifiers/fh-minus-10-icon.png" class="fh-icon"> cards
 * five <img alt="Plus 10 Icon" title="Plus 10 Icon" src="icons/attack-modifiers/fh-plus-10-icon.png" class="fh-icon"> cards
-* one <img alt="Minus 20 Icon" title="Minus 20 Icon" src="icons/attack-modifiers/fh-minus-20-icon.png" class="fh-icon"> cards
-* one <img alt="Plus 20 Icon" title="Plus 20 Icon" src="icons/attack-modifiers/fh-plus-20-icon.png" class="fh-icon"> cards
-* one <img alt="W Icon" title="W Icon" src="icons/attack-modifiers/fh-w-icon.png" class="fh-icon"> cards
-* one <img alt="S Icon" title="S Icon" src="icons/attack-modifiers/fh-s-icon.png" class="fh-icon"> cards
+* one <img alt="Minus 20 Icon" title="Minus 20 Icon" src="icons/attack-modifiers/fh-minus-20-icon.png" class="fh-icon"> card
+* one <img alt="Plus 20 Icon" title="Plus 20 Icon" src="icons/attack-modifiers/fh-plus-20-icon.png" class="fh-icon"> card
+* one <img alt="W Icon" title="W Icon" src="icons/attack-modifiers/fh-w-icon.png" class="fh-icon"> card
+* one <img alt="S Icon" title="S Icon" src="icons/attack-modifiers/fh-s-icon.png" class="fh-icon"> card
 
 As the town guard gains perk marks and the party gains various other bonuses during the campaign, cards will be added to and removed from the town guard deck. Each card in the deck has a unique reference number.
 
