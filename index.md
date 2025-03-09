@@ -2042,7 +2042,7 @@ After the Building Operations step, characters may perform downtime activities i
 
 * **Purchase Items** [p.67](#page_67)
 </details>
-
+<br>
 <details style="margin-top: -15px;">
 <summary><h5 id="sticker_12" style="display: inline;">Sticker 12</h5></summary>
 
