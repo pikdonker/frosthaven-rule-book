@@ -2042,6 +2042,7 @@ After the Building Operations step, characters may perform downtime activities i
 
 * **Purchase Items** [p.67](#page_67)
 </details>
+
 <details style="margin-top: -15px;">
 <summary><h5 id="sticker_12" style="display: inline;">Sticker 12</h5></summary>
 
@@ -2197,6 +2198,7 @@ Items can be purchased by interacting with the Trading Stall building. Character
 </details>
 
 <details>
+
 <summary><h3 id="sticker_14" style="display: inline;">Sticker 14</h3>
 </summary>
 
@@ -2219,8 +2221,6 @@ Once an enhancement has been added to an ability card, it is never removed. Even
 For all enhancement costs, see Appendix D on [p.77](#page_77) or [https://pikdonker.github.io/frosthaven-enhancement-calculator/](https://pikdonker.github.io/frosthaven-enhancement-calculator/)
 </details>
 
-
-## Sticker 14
 
 ---
 
