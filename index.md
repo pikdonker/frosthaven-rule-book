@@ -20,7 +20,9 @@ This is a lightweight, searchable, version of the Frosthaven Rule Book, inspired
 - [Sticker 9](#sticker_9)
 - [Sticker 10](#sticker_10)
 - [Sticker 11](#sticker_11)
+- [Sticker 12](#sticker_12)
 - [Sticker 13](#sticker_13)
+- [Sticker 14](#sticker_14)
 - [Sticker 15](#sticker_15)
 
 I've made a separate document that only lists the parts of the Rule Book that are marked as [new in Frosthaven.](./new-to-frosthaven.md)
@@ -2040,7 +2042,11 @@ After the Building Operations step, characters may perform downtime activities i
 
 * **Purchase Items** [p.67](#page_67)
 </details>
-## Sticker 12
+<details style="margin-top: -15px;">
+<summary><h5 id="sticker_12" style="display: inline;">Sticker 12</h5></summary>
+
+* **Purchase Enhancements** [p.67](#page_67)
+</details>
 
 ### Level Up
 
@@ -2188,6 +2194,29 @@ Items cannot be purchased freely until building 37 is built. Until that happens,
 ### Purchase Items
 
 Items can be purchased by interacting with the Trading Stall building. Characters purchase an item by spending gold from their personal supply equal to the item's gold cost. The purchasing character gains one copy of the purchased item. Any item in the available purchasasable supply can be purchased. However, during each Outpost Phase, collectively the party can only purchase a number of items equal to the Trading Stall's level. Items purchased with the starting gold upon the creation of a new character do not count toward this limit.
+</details>
+
+<details>
+<summary><h3 id="sticker_14" style="display: inline;">Sticker 14</h3>
+</summary>
+
+### Purchase Enhancements
+
+Enhancements for ability cards can be purchased by interacting with the Enhancer building. Characters purchase an enhancement by spending gold from their personal supply equal to the enhancement's calculated gold cost. The purchasing character takes a matching enhancement sticker and adds it to an ability card in their pool. The sticker represents a permanent enhancement for that ability.
+
+Enhancement stickers must be placed on enhancement marks. There are five different types of enhancement marks, which have different restrictions for the types of enhancement stickers that can be added to them.
+
+* □ **Square:** This type of mark can only receive a +1 sticker. However, if directly attached to a non-summon move ability, the mark can receive a jump sticker instead.
+* ○ **Circle:** This type of mark can receive any square enhancement sticker or any element sticker (including a "wild" element sticker).
+* ◇ **Diamond:** This type of mark can receive any square or circle enhancement sticker or any negative condition sticker.
+* ◈ **Diamond+:** This type of mark can receive any square or circle enhancement sticker or any positive condition sticker.
+* **Hex:** This type of mark can only receive a hex sticker.
+
+Treat any enhancement dot on a *Gloomhaven*, *Forgotten Circles*, or *Jaws of the Lion* ability card as a diamond, diamond+ or hex enhancement mark.
+
+Once an enhancement has been added to an ability card, it is never removed. Even after a character has been retired or abandoned, enhancementsadded to their ability cards persist for all subsequent characters of that class.
+
+For all enhancement costs, see Appendix D on [p.77](#page_77) or [https://pikdonker.github.io/frosthaven-enhancement-calculator/](https://pikdonker.github.io/frosthaven-enhancement-calculator/)
 </details>
 
 

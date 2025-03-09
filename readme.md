@@ -13,7 +13,9 @@ This is a lightweight, searchable, version of the Frosthaven Rule Book, inspired
 - Sticker 9
 - Sticker 10
 - Sticker 11
+- Sticker 12
 - Sticker 13
+- Sticker 14
 - Sticker 15
 
 I've made a separate document that only lists the parts of the Rule Book that are marked as [new in Frosthaven.](./new-to-frosthaven.md)
