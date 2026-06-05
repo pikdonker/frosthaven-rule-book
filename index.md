@@ -318,7 +318,7 @@ Scenarios are self-contained missions designed to be played in a single sitting.
 Each Scenario Phase consists of three distinct steps:
 
 * **Beginning a Scenario**: In this step, the party will prepare everything needed for the scenario, including their own characters, the monsters they will fight against, and the map layout where the fight will occur.
-* **Playing a Scenario**: This step occurs over a series of rounds. Within each round, all figureson the map, both characters and monsters, will take a turn. The party will play through round after round until the scenario is lost or completed.
+* **Playing a Scenario**: This step occurs over a series of rounds. Within each round, all figures on the map, both characters and monsters, will take a turn. The party will play through round after round until the scenario is lost or completed.
 * **Ending a Scenario**: In this step, the party will resolve the effects of losing or completing the scenario.
 
 > <img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon new-to-fh-icon"> In addition to the scenario book, the section book will also be important for playing through a scenario. Any time you see the section book icon <img alt="Section Book Icon" title="Section Book Icon" src="icons/general/fh-section-bw-icon.png" class="fh-icon">, read the specified section in the section book. The number before the period is the specific page number, and the number after the period is the specific section on that page.
@@ -491,7 +491,7 @@ If the scenario layout depicts an overlay tile covering the border hex of a map 
 
 #### Traps
 
-<img alt="Trap Icon" title="Trap Icon" src="icons/overlay-tiles/fh-overlay-tile-trap-color-icon.png" width="42">  A trap is sprung when any figure enters its hex, except when flying or jumping (unless the jump movement ends there).When a trap is sprung, it applies some effect to the figure who sprang it and is then removed from the map. Trap effects are varied and are specified either by the scenario key — if they are a part of a room’s setup — or by the ability of the figure who placed the trap. If part of a trap’s effect is listed as "damage" in the scenario key, the trap will deal damage equal to 2 plus the scenario level (see [p.16](#page_16)). 
+<img alt="Trap Icon" title="Trap Icon" src="icons/overlay-tiles/fh-overlay-tile-trap-color-icon.png" width="42">  A trap is sprung when any figure enters its hex, except when flying or jumping (unless the jump movement ends there) .When a trap is sprung, it applies some effect to the figure who sprang it and is then removed from the map. Trap effects are varied and are specified either by the scenario key — if they are a part of a room’s setup — or by the ability of the figure who placed the trap. If part of a trap’s effect is listed as "damage" in the scenario key, the trap will deal damage equal to 2 plus the scenario level (see [p.16](#page_16)). 
 > <img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon new-to-fh-icon"> When a trap tile is placed on the map, tokens for the damage and conditions it applies should be placed on the trap tile for easy reference.
 
 #### Hazardous Terrain
@@ -1306,7 +1306,7 @@ During the Card Selection step (see [p.18](#page_18)), a character may declare a
 
 1. Lose one card of their choice from their discard pile and return the remaining cards to their hand (mandatory).
 1. Perform "Heal 2, self " (optional).
-1. Recover all of their spent items (optional).Items can be used during the same turn in which they are recovered.
+1. Recover all of their spent items (optional). Items can be used during the same turn in which they are recovered.
 
 ### Lost Actions
 
@@ -1556,7 +1556,7 @@ After all figures on the map have taken a turn (except figures that were summone
 1. Trigger any end-of-round effects in the scenario rules or on items or character ability cards.
 1. If any drawn attack modifier card or monster ability card has a shuffle icon, shuffle the corresponding discard pile back into the deck.
 1. If any character ability card in a character’s active area has a round bonus, place it in their discard pile or lost pile, depending on whether the action has a lost icon.
-1. Any character who has at least two cards in theirdiscard pile may perform a short rest (see [p.38](#page_38)).
+1. Any character who has at least two cards in their discard pile may perform a short rest (see [p.38](#page_38)).
 1. Move any infused elements one column to the left on the element board, from strong to waning or from waning to inert.
 
 ## Common Scenario Rules
@@ -1654,7 +1654,7 @@ Even if a character is exhausted, as long as the scenario was completed, they ma
 
 # The Adventure Begins
 
-The second part of this rulebook covers how to interact with the outpost of Frosthaven and how to manage the overall campaign, none of which is necessary for your first scenario. When you are ready to start playing and officially begin your campaign, read the text at the front of the scenario book. This text will tell you that two new scenarios have been unlocked (scenarios 0 and 1).Open the corresponding windows of the scenario flowchart, retrieve those stickers, and affix them to the map board at the specified coordinates, matching up the artwork (see [p.51](#page_51)).
+The second part of this rulebook covers how to interact with the outpost of Frosthaven and how to manage the overall campaign, none of which is necessary for your first scenario. When you are ready to start playing and officially begin your campaign, read the text at the front of the scenario book. This text will tell you that two new scenarios have been unlocked (scenarios 0 and 1). Open the corresponding windows of the scenario flowchart, retrieve those stickers, and affix them to the map board at the specified coordinates, matching up the artwork (see [p.51](#page_51)).
 
 #### Scenario 0 and 1
 
@@ -1775,7 +1775,7 @@ The party has a single campaign sheet that tracks a variety of information relat
 
 The campaign sheet has the following:
 
-1. **Campaign Calendar:** This tracks the passage of time, measured in weeks. When the party returns to Frosthaven after a scenario, mark the next box. You might also be instructed to mark the next box at other times in the campaign. Marking these boxes can have various effects (see [p.59](#page_59)).There are 10 weeks per season and two seasons, summer and winter, per year. If the campaign lasts longer than four years, use a new campaign sheet to continue tracking the passage of time.
+1. **Campaign Calendar:** This tracks the passage of time, measured in weeks. When the party returns to Frosthaven after a scenario, mark the next box. You might also be instructed to mark the next box at other times in the campaign. Marking these boxes can have various effects (see [p.59](#page_59)). There are 10 weeks per season and two seasons, summer and winter, per year. If the campaign lasts longer than four years, use a new campaign sheet to continue tracking the passage of time.
 1. **Frosthaven Supply:** This tracks the party’s resources. Any material resources here can be used to pay various costs for buildings, while any herb resources here can be used to craft items and brew potions. All resources here can be used to pay collective costs from scenarios or events. At any time, characters can move resources from their personal supplies to the Frosthaven supply, but they cannot move resources from the Frosthaven supply to their personal supplies.
 1. **Inspiration Value:** This marks the party’s current inspiration. When the party receives "±X inspiration," adjust this value accordingly. When the party completes a scenario, they gain inspiration equal to 4 minus the number of characters. The party can spend any amount of inspiration in place of an equal number of material resources when paying various costs for buildings. Characters can spend 15 inspiration when retiring to complete an additional personal quest (see [p.64](#page_64)).
 1. **Total Defense Value:** This marks Frosthaven’s current defense. This value is mainly referenced when resolving attack events (see [p.60](#page_60)). When the party receives "±X defense," adjust this value accordingly. Modifiers from the morale track are not cumulative; only the current modifier is applicable.
@@ -2455,7 +2455,7 @@ A random setup card contains the following:
 
     * Any monster with <img alt="Stun Icon" title="Stun Icon" src="icons/conditions/fh-stun-color-icon.png" class="fh-icon"> cannot find a focus, will not move, and ignores all abilities.
 
-2. Check for Movement Paths Check for movement paths to attack hexes (i.e., hexes from which an attack can be performed).These hexes are shown with the <img alt="Empty Hex Icon" title="Empty Hex Icon" src="icons/general/fh-hex-empty-color-icon.png" class="fh-icon"> icon in diagrams. If no path exists, the monster cannot find a focus and will not move or attack.
+2. Check for Movement Paths Check for movement paths to attack hexes (i.e., hexes from which an attack can be performed). These hexes are shown with the <img alt="Empty Hex Icon" title="Empty Hex Icon" src="icons/general/fh-hex-empty-color-icon.png" class="fh-icon"> icon in diagrams. If no path exists, the monster cannot find a focus and will not move or attack.
 
 ## 2. Find Focus
 
@@ -2464,7 +2464,7 @@ The monster finds an attack hex and focuses on an enemy with the following prior
 1. A hex with a movement path that triggers fewer negative hexes.
 1. A hex with a movement path that requires fewer movement points.
 1. An enemy closer by range.
-1. An enemy earlier in the initiative order, following the normal rules for breaking tiesfor initiative (see [p.19](#page_19)).
+1. An enemy earlier in the initiative order, following the normal rules for breaking ties for initiative (see [p.19](#page_19)).
 
 ---
 
