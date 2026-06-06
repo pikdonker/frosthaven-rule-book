@@ -491,7 +491,7 @@ If the scenario layout depicts an overlay tile covering the border hex of a map 
 
 #### Traps
 
-<img alt="Trap Icon" title="Trap Icon" src="icons/overlay-tiles/fh-overlay-tile-trap-color-icon.png" width="42">  A trap is sprung when any figure enters its hex, except when flying or jumping (unless the jump movement ends there) .When a trap is sprung, it applies some effect to the figure who sprang it and is then removed from the map. Trap effects are varied and are specified either by the scenario key — if they are a part of a room’s setup — or by the ability of the figure who placed the trap. If part of a trap’s effect is listed as "damage" in the scenario key, the trap will deal damage equal to 2 plus the scenario level (see [p.16](#page_16)). 
+<img alt="Trap Icon" title="Trap Icon" src="icons/overlay-tiles/fh-overlay-tile-trap-color-icon.png" width="42">  A trap is sprung when any figure enters its hex, except when flying or jumping (unless the jump movement ends there). When a trap is sprung, it applies some effect to the figure who sprang it and is then removed from the map. Trap effects are varied and are specified either by the scenario key — if they are a part of a room’s setup — or by the ability of the figure who placed the trap. If part of a trap’s effect is listed as "damage" in the scenario key, the trap will deal damage equal to 2 plus the scenario level (see [p.16](#page_16)). 
 > <img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon new-to-fh-icon"> When a trap tile is placed on the map, tokens for the damage and conditions it applies should be placed on the trap tile for easy reference.
 
 #### Hazardous Terrain
