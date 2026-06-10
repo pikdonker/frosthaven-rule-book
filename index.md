@@ -14,8 +14,11 @@ This is a lightweight, searchable, version of the Frosthaven Rule Book, inspired
 ### Stickers added:
 
 - [Sticker 1](#sticker_1)
+- [Sticker 3](#sticker_3)
 - [Sticker 4](#sticker_4)
 - [Sticker 5](#sticker_5)
+- [Sticker 6](#sticker_6)
+- [Sticker 7](#sticker_7)
 - [Sticker 8](#sticker_8)
 - [Sticker 9](#sticker_9)
 - [Sticker 10](#sticker_10)
@@ -356,7 +359,9 @@ Whenever a scenario is played, the party will prepare for the scenario by perfor
 1. > <img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon new-to-fh-icon"> Place the token tray nearby.
 1. > <img alt="Frosthaven Identifier" title="Frosthaven Identifier" src="icons/general/fh-frosthaven-identifier-color-icon.png" class="fh-icon new-to-fh-icon"> Build the loot deck as depicted by the loot table in the scenario entry (see [p.16](#page_16)).
 1. Sticker 2
-1. Sticker 3
+1. <details><summary><h2 id="sticker_3" style="display: inline;">Sticker 3</h2></summary>
+    The party collectively decides which pets to bring and applies any negative effects associated with those pets. The party can collectively bring a number of pets specified by the Stables building card, chosen from the available supply (see [p.36](#page_36)).
+    </details>
 1. Decide which items to bring for each character from their pool and apply any negative effects and start-of-scenario effects associated with those items (see [p.35](#page_35)).
 1. Decide which ability cards to bring for each character from their pool, selecting a number of cards equal to their hand size, which is shown below the portrait on their character mat. Each character’s selected cards will start in their hand.
 1. Set each character’s red hit point dial to their maximum hit point value, which is shown below their current level in the chart at the bottom of their character mat. Set each character’s blue experience dial to zero.
@@ -1167,7 +1172,15 @@ When a treasure tile is looted, it is removed from the map. Monsters cannot loot
 > 
 > No hex can have more than one overlay tile in it (except corridors and open doors). Traps and obstacles cannot be placed in or moved into occupied hexes. If hazardous terrain is placed in an occupied hex, its effects are not applied to the figure in that hex. When manipulating obstacles, **figures cannot cut off one area of the map from another,** leaving an area that cannot be entered without going through an obstacle. Figures cannot manipulate any overlay tile that is covering a border hex of a map tile.
 
-## Sticker 6
+<details>
+<summary><h2 id="sticker_6" style="display: inline;">Sticker 6</h2></summary>
+
+## Capture
+
+The Trainer's Net (247) gives a character the ability to capture some monsters and add them to the Stables as pets. A monster can only be captured if the capture icon is depicted in the center of its stat card.
+
+When a monster is captured, it is removed from the map as if it were killed, but it does not drop a loot token. If the pet corresponding to the captured monster is not yet available, and the number of pets in the available supply is below the current capacity of the Stables (specified on its building card), find it in the unavailable supply and add it to the available supply.
+</details>
 
 ---
 
@@ -1259,7 +1272,16 @@ Items with use slots and passive effects must be used if the item’s requiremen
 * If an item affects an attack (e.g., adds a bonus, an effect, advantage, or disadvantage), it must be used before an attack modifier is drawn.
 * If an item provides an ability, it cannot be used during another ability.
 
-## Sticker 7
+<details>
+<summary><h2 id="sticker_7" style="display: inline;">Sticker 7</h2></summary>
+
+## Pet Cards
+
+Pet cards function just like item cards, with two exceptions:
+
+1. Pets are owned collectively by the entire party.
+1. Any character can use a pet on their turn, but they must have unanimous consent from the party to do so. When a pet is used, the effect is applied to all characters immediately, and then the pet is lost for the scenario.
+</details>
 
 ---
 
